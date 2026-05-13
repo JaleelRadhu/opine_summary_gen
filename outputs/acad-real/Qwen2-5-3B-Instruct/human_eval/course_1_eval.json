@@ -1,0 +1,1753 @@
+[
+  {
+    "eval_id": "course1_nothing",
+    "course": "Course-1",
+    "node_name": "Nothing",
+    "node_path": [
+      "root",
+      "General",
+      "Nothing"
+    ],
+    "node_level": 2,
+    "node_type": "regular_leaf",
+    "source_tuples": [
+      {
+        "aspect": "anything",
+        "opinion": "No suggestions",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No suggestions",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No suggestions",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No suggestions",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing as of now",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "None",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you what is going well in the course None",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Nothing at all",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing at all",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing at all",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing at all",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "N.A.",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? N.A.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "nothing",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? nothing",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "No comments",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No comments",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No comments",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No comments",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing at all",
+        "opinion": "helped you learn",
+        "sentiment": "negative",
+        "source_feedback": "What helped you learn in this course? Nothing at all",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Nothing at all",
+        "opinion": "helped you learn in this course?",
+        "sentiment": "negative",
+        "source_feedback": "What helped you learn in this course? Nothing at all",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "No feedback",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No feedback",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "no",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? no",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "no",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? no",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "ything",
+        "opinion": "hands on.",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? ything hands on.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "No comments",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No comments",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "No comments",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No comments",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No suggestions",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No suggestions",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "course?",
+        "opinion": "No changes.",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? No changes.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "No changes.",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? No changes.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Nothing specifically.",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? Nothing specifically.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "changes would improve your learning?",
+        "opinion": "n/a",
+        "sentiment": "positive",
+        "source_feedback": "What changes would improve your learning? n/a",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "Nope",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nope",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing to mention",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "nothing",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? nothing",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No suggestions",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you what is going well in the course No suggestions",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "No changes",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No changes",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "",
+        "opinion": "can't say",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? can't say",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Everything is fine",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Everything is fine",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Everything is fine",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Everything is fine",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "course?",
+        "opinion": "Nothing really.",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? Nothing really.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Nothing",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? Nothing really.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Not anything",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Not anything",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Nothing specifically",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing specifically",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Teammates",
+        "opinion": "helped you learn in this course?",
+        "sentiment": "negative",
+        "source_feedback": "What helped you learn in this course? Teammates",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "No changes",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No changes",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "course?",
+        "opinion": "Not really",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? Not really anything.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "anything.",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? Not really anything.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Nothing whatsoever",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing whatsoever",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Nothing whatsoever",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing whatsoever",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Comments on labs",
+        "opinion": "Nothing at all",
+        "sentiment": "positive",
+        "source_feedback": "Comments on labs (if any) with respect to the course and your learning. Nothing at all",
+        "question": "Comments on labs (if any) with respect to the course and your learning"
+      },
+      {
+        "aspect": "Nothing comes to mind",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing comes to mind",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Nothing comes to mind",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Nothing comes to mind",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing",
+        "opinion": "how the experience could have improved",
+        "sentiment": "positive",
+        "source_feedback": "Share your suggestions on how the experience could have improved Nothing",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "n/a",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? n/a",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No suggestions",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? No suggestions",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Not really",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Not really",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "No changes",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No changes",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Absolutely nothing",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Absolutely nothing",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "anything",
+        "opinion": "Absolutely nothing",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Absolutely nothing",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Nothing specifically",
+        "opinion": "going well",
+        "sentiment": "negative",
+        "source_feedback": "According to you what is going well in the course Nothing specifically",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "No",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? No",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "None",
+        "opinion": "wish to be changed?",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? None",
+        "question": "Is there anything you wish to be changed"
+      }
+    ],
+    "child_summaries_used": null,
+    "tuple_counts": {
+      "positive": 36,
+      "negative": 18,
+      "suggestion": 0
+    },
+    "summary_A": "## Appraisals\nStudents found the course satisfactory, with no specific suggestions for improvement. The feedback indicates that the course is progressing well without any particular areas needing attention.\n\n## Criticisms\nThere were no criticisms or complaints raised by the students regarding the course. They did not express any concerns or shortcomings.\n\n## Suggestions\nNo feedback was provided suggesting improvements or changes to the course.",
+    "summary_B": "Students appreciated responses indicating that there were no suggestions for improvement or changes needed. Phrases such as \"nothing,\" \"no suggestions,\" \"nothing at all,\" \"no comments,\" \"no feedback,\" \"no changes,\" \"Absolutely nothing,\" and \"Not really\" were highlighted positively by students, suggesting that they valued straightforwardness and a lack of criticism or areas for enhancement.",
+    "summary_C": "Students expressed dissatisfaction with the course, indicating that it lacked notable aspects or improvements. They felt that there were no significant changes or enhancements, and that the course did not effectively help them learn. The feedback suggests that students perceived the course as stagnant, with no standout features or beneficial elements. Additionally, they struggled to identify what was going well, expressing confusion or frustration when asked to pinpoint positive aspects.",
+    "summary_D": null
+  },
+  {
+    "eval_id": "course1_pace",
+    "course": "Course-1",
+    "node_name": "Pace",
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pace"
+    ],
+    "node_level": 3,
+    "node_type": "regular_leaf",
+    "source_tuples": [
+      {
+        "aspect": "class speed.",
+        "opinion": "cannot cope with",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Please provide previous year recordings or extra practice material. I cannot cope with the class speed.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely fashion.",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The instructor and TAs are really good and extremely helpful. All material is being covered in an orderly and timely fashion.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Content",
+        "opinion": "on time.",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The teacher and staff are excellent. Content is done in a sequence and on time.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "pedagogy",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course The pedagogy is good but the pace is too fast covering too much material",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "pace of lectures",
+        "opinion": "wish to be changed?",
+        "sentiment": "suggestion",
+        "source_feedback": "Is there anything you wish to be changed? pace of lectures",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "teaching speed",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The teaching speed",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "dragging",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? I would change the structure . The topics are outdated and not current . The pace is also dragging .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course i am understanding good in the course, course is in good pace and easy understanble",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "rate of progress",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? How he teaches, the rate of progress and the case studies.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "",
+        "opinion": "vague.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Evaluation is hard for beginners. Fast lectures. Concepts are vague.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Concepts",
+        "opinion": "Fast",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Evaluation is hard for beginners. Fast lectures. Concepts are vague.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "tempo",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? I like the materials provided, and the tempo is good",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "appropriate",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Course content is high quality, and the pace is appropriate",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "rapid",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The pace is rapid with little depth, and lectures differ from labs.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "little depth,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The pace is rapid with little depth, and lectures differ from labs.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "pace of classes.",
+        "opinion": "difficult for me to cope with",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Sir, please provide lecture recordings of last year's, or provide some external resources to learn and practice what's been taught in the class. It's difficult for me to cope with the pace of classes.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Instructor and TAs are nice. The lectures are timely and orderly.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "",
+        "opinion": "Needs",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Testing is difficult for non-coders. Pace is quick. Needs specific code examples.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "code examples.",
+        "opinion": "quick.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Testing is difficult for non-coders. Pace is quick. Needs specific code examples.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "",
+        "opinion": "fast.Concepts are rather broadly done",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The tesing method since some of the not familiar with python are having difficulty in labs.. The speed of concepts in lecture is a little fast.Concepts are rather broadly done instead of giving key insights on specifically python snippets",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "speed of concepts in lecture",
+        "opinion": "fast.Concepts",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The tesing method since some of the not familiar with python are having difficulty in labs.. The speed of concepts in lecture is a little fast.Concepts are rather broadly done instead of giving key insights on specifically python snippets",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "lecture pace",
+        "opinion": "is good,",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The lecture pace is good, unlike the labs",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "pace,",
+        "opinion": "Fast",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Fast pace, less topic coverage, and disconnect between lectures and tutorials.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "pace,",
+        "opinion": "less topic coverage,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Fast pace, less topic coverage, and disconnect between lectures and tutorials.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "",
+        "opinion": "lot of time is spent on topics that aren't very important",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The lectures can be planned better. I feel a lot of time is spent on topics that aren't very important in this course (such as the different Parts of Speech, or different lexical elements in a language) which leaves very little time to cover the more important mathematical parts of the course such as algorithm discussion, smoothing (this topic was taught wrong in class and in a hurry) etc. This would have been acceptable if the class ended on time but sir often goes overtime by - minutes in every lecture. I personally don't feel I am learning much in this course and the assessments also seem very unfair with questions on things like POS tagging in the quiz which some kids can simply search online and which is in no way a fair assessment of what a student has learned in the course. The second assignment was also not well thought out as it was too computationally intensive which is simply not fair considering students may not have the best systems at home to run these models for hours on end, nor do they have access to lab PCs or the college server. Overall, I feel that I am not learning anything of practical use in this course and am very disappointed.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Tutorials",
+        "opinion": "too fast.",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved Ideally less math and more solving. Tutorials were too fast. Hard questions made us clueless.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "",
+        "opinion": "on schedule",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The professor and TAs are very helpful. The material is covered on schedule and logically.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Pace",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Pace",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "",
+        "opinion": "Too much content is covered in little time,",
+        "sentiment": "negative",
+        "source_feedback": "What changes would improve your learning? Too much content is covered in little time, which makes learning a bit difficult. The amount of topics could be managed.",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "Tempo",
+        "opinion": "perfect,",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Tempo is perfect, instructor is supportive and Teaching Assistants are helpful.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "course Lectures",
+        "opinion": "conducted in a regular manner.",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Lectures are being conducted in a regular manner. Trying to teach everything along with the basics. But some students wanted to go to advanced topics directly, but doing that will be a problem to some of the students. So, it would be great if the course goes in the same pace.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The TAs and instructor are excellent. Everything is timely and well-ordered.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "speed at which topics are covered",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The speed at which topics are covered",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Course",
+        "opinion": "too fast,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Course is too fast, topics are rushed, and lab content is inconsistent.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Course",
+        "opinion": "topics are rushed,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Course is too fast, topics are rushed, and lab content is inconsistent.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "teaching rate",
+        "opinion": "suitable",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The resources are great, and the teaching rate is suitable",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "topics taught",
+        "opinion": "pace could have slowed down.",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved The topics taught after the lockdown went over my head. This would not have been the case if physical lectures had continued. The pace could have slowed down. If time was an issue, then removing a few topic would have been better.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "pacing",
+        "opinion": "could have been better,",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved The pacing could have been better, till mid sem we were doing really really basic stuff, but in the course of - weeks the course difficulty skyrocketed. Also the time period given for the last assignment was too short. The last assignment was equivalent to doing a full fledged project, the material for that project should have been covered earlier and sufficient time should have been given for it.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely.",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? TAs are good and the instructor is helpful. The sequence of topics is timely.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Pace",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Pace",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Instructor",
+        "opinion": "goes fast",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved Doubts are not cleared . Passing criteria is bad . Less content please . Too much work . Instructor goes fast .",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "",
+        "opinion": "Give specific",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Tests are tricky if you don't know coding. Lectures rush. Give specific insights.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "insights.",
+        "opinion": "rush.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Tests are tricky if you don't know coding. Lectures rush. Give specific insights.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "IP classes",
+        "opinion": "should proceed more slowly.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Yes. The IP classes should proceed more slowly.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course I understand well , pace is good .",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "",
+        "opinion": "punctually",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? I really like the instructor and the TAs. The content is delivered punctually and in order.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The TAs and professor are great. The course flow is timely and organized.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Lectures",
+        "opinion": "pace is very fast",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Lectures pace is very fast",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "IP classes.",
+        "opinion": "Slow down",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Yes. Slow down the IP classes.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "advanced topics",
+        "opinion": "were rushed in the classes",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved The pace of the course was quite slow in the start of the semester. Instructor spent a lot of time on very basic stuff. As a result of this many advanced topics were rushed in the classes after midsem and it became very tough to understand everything.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "pace of the course",
+        "opinion": "quite slow",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved The pace of the course was quite slow in the start of the semester. Instructor spent a lot of time on very basic stuff. As a result of this many advanced topics were rushed in the classes after midsem and it became very tough to understand everything.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "",
+        "opinion": "timely",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Great TAs and professor. The content is timely and ordered.",
+        "question": "According to you , what is going well in this course"
+      }
+    ],
+    "child_summaries_used": null,
+    "tuple_counts": {
+      "positive": 23,
+      "negative": 28,
+      "suggestion": 1
+    },
+    "summary_A": "## Appraisals\nStudents praised the timely fashion and pacing of the course, noting that the material is covered in an orderly and timely manner. Several reviewers highlighted the instructor and teaching assistants as being excellent and helpful, further supporting the positive sentiments towards the pace.\n\n## Criticisms\nThe primary criticism revolves around the pace of the lectures, with multiple students expressing frustration that the material is covered too quickly, leaving them unable to keep up. Some students also mentioned that the pace is too fast for their comfort, leading to difficulties in understanding and coping with the material.\n\n## Suggestions\nStudents suggested slowing down the pace of lectures and providing additional resources or recordings to help them keep up with the material. They also recommended more detailed explanations and specific examples to aid in understanding complex topics. Additionally, some students requested a more balanced distribution of content, suggesting that certain topics might be rushed while others are not adequately covered.",
+    "summary_B": "Students appreciated the timely and orderly delivery of course content, as evidenced by comments indicating that the pace was appropriate, going well, timely, and on schedule. They also noted that the teaching speed was good and the course content was covered in a logical sequence. While some felt the pace could be adjusted for more advanced topics, overall, the positive sentiment towards the pacing suggests that the instructor and teaching assistants were effective in maintaining a balanced and efficient learning pace.",
+    "summary_C": "Students expressed significant dissatisfaction with the pace of the course, finding it either too fast, dragging, or rushed, making it difficult for them to keep up. They requested additional resources such as previous year recordings or practice materials to help manage the speed of the lectures. Some noted issues with the pace affecting their ability to grasp concepts, leading to confusion and frustration. Specific complaints included instructors rushing through foundational topics while skipping over critical ones, leaving students feeling unprepared for subsequent material. Additionally, students felt that the pace varied widely across different topics, with some covering material too quickly while others moved at a slower, more manageable pace. Overall, the feedback highlighted the need for a more balanced and deliberate approach to pacing throughout the course.",
+    "summary_D": "Students suggested that the pace of lectures could be improved, with some expressing a desire for it to be adjusted, possibly slowed down to allow for better understanding and retention of material."
+  },
+  {
+    "eval_id": "course1_effectiveness_of_professor",
+    "course": "Course-1",
+    "node_name": "Effectiveness of Professor",
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pedagogical Skills of Professor",
+      "Effectiveness of Professor"
+    ],
+    "node_level": 4,
+    "node_type": "regular_leaf",
+    "source_tuples": [
+      {
+        "aspect": "lectures",
+        "opinion": "is going well.",
+        "sentiment": "positive",
+        "source_feedback": "According to you, what is going well in this course? Name atleast one. The content is fantastic! I love the theory courses here, and the optional attendance is perfect. Everything from homework to lectures is going well.",
+        "question": "According to you, what is going well in this course? Name atleast one."
+      },
+      {
+        "aspect": "instructor",
+        "opinion": "taught well",
+        "sentiment": "positive",
+        "source_feedback": "Share your suggestions on how the experience could have improved. The instructor really taught well and sparked the interest. Nice variety was covered and it was extensive.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "pace",
+        "opinion": "too fast covering too much material",
+        "sentiment": "negative",
+        "source_feedback": "According to you what is going well in the course The pedagogy is good but the pace is too fast covering too much material",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "classes",
+        "opinion": "bit boring",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The classes a bit boring so there may be some quiz in between the class. The class should be finished in a given stipulated time interval.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Lectures",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Lectures + sipser book + tutorials(TAs)",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "instructor:",
+        "opinion": "Lack of Effort",
+        "sentiment": "negative",
+        "source_feedback": "What helped you learn in this course? This is not a troll review. The course was very badly managed hence so many ones are given above. My problems: ) Instructor: Reading slides is not teaching. ) Lack of Effort from the instructor: (i) Slides were used from the book. (ii) No assignments were made. (iii) Even the project topic was open. ) Irrelevant material being more emphasis hence students lost interest. This is supported by observing the attendance trend over the semester. It kept on dipping. ) The project was not big enough for a  member team.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Lectures",
+        "opinion": "feel unstructured.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Lectures feel unstructured. Better explanatory slides are needed. Assignments have too many obvious proofs which seem like a waste of time.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "understanding",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course i am understanding good in the course, course is in good pace and easy understanble",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "description",
+        "opinion": "excellent",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course ? The description of the topic is excellent",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "How he teaches,",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? How he teaches, the rate of progress and the case studies.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Classes",
+        "opinion": "somewhat dull,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Classes are somewhat dull, so add a quiz in the middle. Also, finish the class on time",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "advanced topics",
+        "opinion": "not covered deeply.",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved Intuition is taught well by Sir. But advanced topics are not covered deeply. I suggest Sir discusses complex topics in more detail.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "Sir.",
+        "opinion": "taught well",
+        "sentiment": "positive",
+        "source_feedback": "Share your suggestions on how the experience could have improved Intuition is taught well by Sir. But advanced topics are not covered deeply. I suggest Sir discusses complex topics in more detail.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "explanations and teaching",
+        "opinion": "excellent.",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? ? The explanations and teaching were excellent.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "teaching methodology",
+        "opinion": "like",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course I like teaching methodology of sir. content and presentation is good.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "class sizes",
+        "opinion": "appreciate",
+        "sentiment": "positive",
+        "source_feedback": "According to you, what is going well in this course? Name atleast one. Great learning experience! The theory is excellent and I appreciate the small class sizes due to attendance policy. All components are functioning well.",
+        "question": "According to you, what is going well in this course? Name atleast one."
+      },
+      {
+        "aspect": "Lecture attendance",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? ? Lecture attendance and solving questions alone. Best semester course. Classes, HW and quizzes were well planned. The instructor encouraged us.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Going to lectures",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Going to lectures and reading the prescribed book",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "explanation",
+        "opinion": "fair enough.",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? explanation of the topic is fair enough.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "less math",
+        "opinion": "Ideally",
+        "sentiment": "negative",
+        "source_feedback": "Share your suggestions on how the experience could have improved Ideally less math and more solving. Tutorials were too fast. Hard questions made us clueless.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "professor's effectiveness",
+        "opinion": "notable",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The professor's effectiveness is notable .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "way concepts are explained",
+        "opinion": "nice",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The way concepts are explained is nice .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "explanation.",
+        "opinion": "Good",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Good explanation. Helpful TAs.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "Lectures",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Assignments and Lectures",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "",
+        "opinion": "understandable",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? understandable",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "lectures",
+        "opinion": "helped you learned in this course?",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learned in this course? Regular tests and lectures .",
+        "question": "What helped you learned in this course"
+      },
+      {
+        "aspect": "instructor",
+        "opinion": "explaining all the concept so well",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Course instructor is explaining all the concept so well",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "problem solving",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Professor's interest in teaching and problem solving",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "taught",
+        "opinion": "content is well taught",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course The ppts are great and the content is well taught with proper examples wherever required.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "<name>",
+        "opinion": "taught subject as if he was reading a book.",
+        "sentiment": "negative",
+        "source_feedback": "What changes would improve your learning? Students registered in DBMS were a lot. that is why classes were conducted in two different rooms and thus of course by two different professors. I believe and I've come to know that, although the content taught to both the sections, was the same, still there was a significant difference in the learning as received by students of these two sections. This is primarily because of two different professors. <name> literally taught subject as if he was reading a book. All he did was went through the slides and just read the content of the slides. It was genuinely a very monotonous class every day that we literally stopped attending it, because if you're just supposed to read the slides, then you can do it yourselves. There was not much learning in this course because it was heavily based on the project.",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "class",
+        "opinion": "very monotonous",
+        "sentiment": "negative",
+        "source_feedback": "What changes would improve your learning? Students registered in DBMS were a lot. that is why classes were conducted in two different rooms and thus of course by two different professors. I believe and I've come to know that, although the content taught to both the sections, was the same, still there was a significant difference in the learning as received by students of these two sections. This is primarily because of two different professors. <name> literally taught subject as if he was reading a book. All he did was went through the slides and just read the content of the slides. It was genuinely a very monotonous class every day that we literally stopped attending it, because if you're just supposed to read the slides, then you can do it yourselves. There was not much learning in this course because it was heavily based on the project.",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "Classroom sessions.",
+        "opinion": "going well in this course?",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Classroom sessions.",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "instructor's",
+        "opinion": "teaching abilities",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learned in this course? The instructor's teaching abilities",
+        "question": "What helped you learned in this course"
+      },
+      {
+        "aspect": "instructor",
+        "opinion": "explains concepts clearly",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course The instructor explains concepts clearly .",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "lectures",
+        "opinion": "effective",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The assignments are good , lectures are effective , and evaluation is fair .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "understand",
+        "opinion": "well",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course I understand well , pace is good .",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "explanation.",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Level of teaching material and explanation. Level of examples and real world connection.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "instructors",
+        "opinion": "failed to develop an interest in the course for me",
+        "sentiment": "negative",
+        "source_feedback": "What changes would improve your learning? the delivery of the course content was not up to the mark, the instructors failed to develop an interest in the course for me",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "instructor",
+        "opinion": "taught well",
+        "sentiment": "positive",
+        "source_feedback": "Share your suggestions on how the experience could have improved. The instructor taught well and sparked interest. Variety was extensive.",
+        "question": "Share your suggestions on how the experience could have improved"
+      },
+      {
+        "aspect": "lectures",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Home assignment and attending lectures regularly",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "material",
+        "opinion": "great.",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Lectures and material are great.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "professor",
+        "opinion": "effective",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? The challenging nature, effective professor and competitive peers",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "explanations",
+        "opinion": "decent",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The explanations are decent .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Sir",
+        "opinion": "Sir explained the concepts very well in class",
+        "sentiment": "positive",
+        "source_feedback": "What changes would improve your learning? Sir explained the concepts very well in class but he didn't do many practice problems. He said that would be done in the tutorials but the TAs couldn't explain the answers to problems properly.",
+        "question": "What changes would improve your learning"
+      },
+      {
+        "aspect": "content",
+        "opinion": "taught well.",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learned in this course? Rigorous course structure and the content was taught well.",
+        "question": "What helped you learned in this course"
+      },
+      {
+        "aspect": "course Way of teaching",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Way of teaching with examples, it helps in clearing the concepts.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "course Way of teaching",
+        "opinion": "helps in clearing the concepts.",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Way of teaching with examples, it helps in clearing the concepts.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "lectures",
+        "opinion": "confusing and unstructured.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? I find lectures to be confusing and unstructured. If slides could be changed and made more explanatory and correct , it would be better. Also, Homework assignments are too much proof based which I find to be less useful compared to the time and effort we put into them. They are just long and careful proofs which are very obvious and finding a \"rigorous\" proof for them, seems go be a useless exercise.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Content",
+        "opinion": "shared in efficient manner.",
+        "sentiment": "positive",
+        "source_feedback": "According to you what is going well in the course Content being shared in efficient manner.",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "classes",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Attending the classes and doing the questions by myself. This course was hands-down the best I had this semester. The classes, homework and quizzes were all carefully planned out and the instructor was very encouraging.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "lectures",
+        "opinion": "we are not taught the concepts at a deeper level",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The labs and the lectures are not in sync. The level of labs questions are very high whereas in the lectures we are not taught the concepts at a deeper level so that we can solve the questions in the lab properly. It creates a very challenging situation for the student and puts enormous pressure on the student.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "content",
+        "opinion": "taught nicely",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learned in this course? Strong structure and content was taught nicely .",
+        "question": "What helped you learned in this course"
+      }
+    ],
+    "child_summaries_used": null,
+    "tuple_counts": {
+      "positive": 40,
+      "negative": 12,
+      "suggestion": 0
+    },
+    "summary_A": "## Appraisals\nStudents praised the effectiveness of the professor, noting that the content is fantastic, the pace is manageable, and the teaching methods are engaging. Several reviews highlighted the clarity of explanations and the instructor's ability to spark interest in the subject matter.\n\n## Criticisms\nThe main criticisms revolve around the pace of the lectures, which was deemed too fast, and the lack of depth in the coverage of advanced topics. Additionally, some students felt that the classes were boring and unengaging, and that the professor's teaching style was monotonous.\n\n## Suggestions\nStudents suggested that the professor should cover advanced topics in more detail and provide more explanatory slides. They also recommended incorporating more interactive elements such as quizzes within the lectures to keep the classes engaging. Some students requested more practical applications and fewer purely theoretical questions in assignments and exams.",
+    "summary_B": "Students appreciated the effectiveness of the professor, particularly in terms of clear and engaging lectures, which helped them learn effectively. They also praised the instructor’s ability to teach well and spark interest, along with the clarity of explanations and the helpfulness of tutorials and TAs. Additionally, the pacing and accessibility of the course materials were noted positively, as were the overall course structure and the instructor's teaching methodology. While some students suggested improvements, such as deeper coverage of complex topics and more detailed explanations, the general sentiment was positive regarding the professor's effectiveness in making the course content understandable and well-taught.",
+    "summary_C": "Students expressed several concerns regarding the effectiveness of the professor. They noted that the pace of lectures was too fast, covering extensive material without sufficient depth, leading to feelings of boredom and disinterest. Additionally, the classes were perceived as unstructured and sometimes monotonous, with one instructor described as merely reading from slides rather than engaging with the material. There were also complaints about the lack of depth in teaching advanced topics and insufficient mathematical content, which some felt hindered understanding. Furthermore, students reported that the instructor failed to foster an interest in the course, and lectures were deemed confusing and unstructured, often leaving them unsure about the deeper concepts necessary for effective learning. Overall, these reviews indicate dissatisfaction with the professor's ability to maintain a structured, engaging, and informative learning environment.",
+    "summary_D": null
+  },
+  {
+    "eval_id": "course1_labs_tutorial_assignment_questions_in_ge",
+    "course": "Course-1",
+    "node_name": "Labs-Tutorial-Assignment Questions in general not specifically about Relevance or Quality",
+    "node_path": [
+      "root",
+      "Course Material",
+      "Labs-Tutorial-Assignment Questions",
+      "Labs-Tutorial-Assignment Questions in general not specifically about Relevance or Quality"
+    ],
+    "node_level": 3,
+    "node_type": "negative_sibling_leaf",
+    "source_tuples": [
+      {
+        "aspect": "assignments",
+        "opinion": "Long",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Heavy load . Long assignments . Punctuality is an issue . Course structure is confusing . Assignment questions are vague .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Assignment questions",
+        "opinion": "vague",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Heavy load . Long assignments . Punctuality is an issue . Course structure is confusing . Assignment questions are vague .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "homework",
+        "opinion": "is going well.",
+        "sentiment": "positive",
+        "source_feedback": "According to you, what is going well in this course? Name atleast one. The content is fantastic! I love the theory courses here, and the optional attendance is perfect. Everything from homework to lectures is going well.",
+        "question": "According to you, what is going well in this course? Name atleast one."
+      },
+      {
+        "aspect": "Labs",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Labs",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "Tuts",
+        "opinion": "going well in this",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Tuts",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "tutorials(TAs)",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Lectures + sipser book + tutorials(TAs)",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "project",
+        "opinion": "not big enough for a member team.",
+        "sentiment": "negative",
+        "source_feedback": "What helped you learn in this course? This is not a troll review. The course was very badly managed hence so many ones are given above. My problems: ) Instructor: Reading slides is not teaching. ) Lack of Effort from the instructor: (i) Slides were used from the book. (ii) No assignments were made. (iii) Even the project topic was open. ) Irrelevant material being more emphasis hence students lost interest. This is supported by observing the attendance trend over the semester. It kept on dipping. ) The project was not big enough for a  member team.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Assignments",
+        "opinion": "too many obvious proofs",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Lectures feel unstructured. Better explanatory slides are needed. Assignments have too many obvious proofs which seem like a waste of time.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "tutorials",
+        "opinion": "Nice",
+        "sentiment": "positive",
+        "source_feedback": "Comments on tutorials (if any) with respect to the course and your learning. Nice",
+        "question": "Comments on tutorials (if any) with respect to the course and your learning"
+      },
+      {
+        "aspect": "Assignments",
+        "opinion": "boring",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Too much work . Assignments are boring . Class starts late often . Please fix the structure . Labs could be better .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Labs",
+        "opinion": "could be better",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Too much work . Assignments are boring . Class starts late often . Please fix the structure . Labs could be better .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "labs",
+        "opinion": "Nil",
+        "sentiment": "negative",
+        "source_feedback": "Comments on labs (if any) with respect to the course and your learning. Nil",
+        "question": "Comments on labs (if any) with respect to the course and your learning"
+      },
+      {
+        "aspect": "Assignments",
+        "opinion": "nice",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Assignments were nice and slides were decent.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Tutorials,",
+        "opinion": "helped you learn in this course?",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Tutorials, youtube videos, and resources on tutorialspoint, only.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Labs",
+        "opinion": "good practice",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Quizzes are useful . Labs are good practice .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "topics asked",
+        "opinion": "haven't been covered in class",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Make lab questions easier; there are topics asked that haven't been covered in class",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "labs",
+        "opinion": "no explanation of the concepts",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? labs and regular classes are not co related , in labs questions we get to solve are harder than what in classes we are taught, on the other hand in DC lab our instructor give us a brief explanation in initial - minutes so that we can develop our skills , but in IP labs they gave us questions to solve only , no explanation of the concepts to be used for solving the questions it really needs to get fixed . in class we were taught \"if else\" statement in python but in labs we got question related to loops in python how can a beginner solve them??",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "tutorial classes",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Regular quizzes, home assignments, and tutorial classes",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "home assignments,",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Regular quizzes, home assignments, and tutorial classes",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Coursework",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Coursework and classes",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "labs",
+        "opinion": "unlike the",
+        "sentiment": "negative",
+        "source_feedback": "According to you , what is going well in this course? The lecture pace is good, unlike the labs",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "components",
+        "opinion": "functioning well.",
+        "sentiment": "positive",
+        "source_feedback": "According to you, what is going well in this course? Name atleast one. Great learning experience! The theory is excellent and I appreciate the small class sizes due to attendance policy. All components are functioning well.",
+        "question": "According to you, what is going well in this course? Name atleast one."
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "good parts of the course.",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? The assignments and the project were the good parts of the course. Personally the lectures didn’t help me at all. I referred to online resources for learning entirely.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "project",
+        "opinion": "going well in this course?",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Doing the project",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "assignment",
+        "opinion": "doesn't make sense to have such a big assignment which has such little weightage.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The assignments are terrible. We basically have to do an equivalent of another project in the name of \"midsem\". It doesn't make sense to have such a big assignment which has such little weightage. The same is true for the previous assignment. We put - days of work for like % of the grade which doesn't make any sense in my opinion. The assignments aren't even a good learning experience, it is basically a competition of who has a good laptop. This is not a programming course, then why does the professor expect us to write optimized code and run it on multiple cores. The quiz  rubric was terrible as well. We lost marks for unnecessary things.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Project",
+        "opinion": "helped you learn in this course?",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Project",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Lab assignments",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Lab assignments",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "homeworks, projects,",
+        "opinion": "helped you learn in this course?",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? The classes, homeworks, projects, and the supplied papers.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "tutorials",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? The frequent tests, homework, and the tutorials",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "homework,",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? The frequent tests, homework, and the tutorials",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Tutorials",
+        "opinion": "pretty great",
+        "sentiment": "positive",
+        "source_feedback": "Comments on tutorials (if any) with respect to the course and your learning. Tutorials were pretty great .!",
+        "question": "Comments on tutorials (if any) with respect to the course and your learning"
+      },
+      {
+        "aspect": "assignments,",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? TA tutorials, assignments, and the quizzes were vital.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Assignments",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Assignments and Lectures",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Labs",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Labs and Lectures",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "laboratory sessions,",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The laboratory sessions, lectures, nearly everything",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "tutorials.",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Frequent quizzes, homeworks and tutorials.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "homeworks",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Frequent quizzes, homeworks and tutorials.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "onljne videos",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Sipser book and onljne videos",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Labs,",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Labs, classes, and pretty much every part",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "hw problems.",
+        "opinion": "helped you",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Sir and his hw problems.",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "questions",
+        "opinion": "whose topics are not discussed in class but questions are being asked in labs.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Please decrease the difficulty of IP labs problems ,there are questions whose topics are not discussed in class but questions are being asked in labs.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Finite Automata",
+        "opinion": "would have improved our quiz scores",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Additional practice problems on complex subjects like Finite Automata would have improved our quiz scores",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "solo work",
+        "sentiment": "negative",
+        "source_feedback": "According to you what is going well in the course All is good but assignments are solo work",
+        "question": "According to you what is going well in the course"
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "good",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? The assignments are good , lectures are effective , and evaluation is fair .",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "no assignments given for practice in coding as well.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? In the lab assignments given to us on hackerrank, I am not able to solve any of the coding problem. Also, I didn't have CS subjects in higher school So, I am not able to do coding at all and suffering a lot on IP. I am getting / in hackerrank projects. There are no assignments given for practice in coding as well. The students who are getting good marks in hackerrank projects had CS in high school, I have talked to a number of students who are getting good marks. Please make us learn coding from beginning as it is very important for our future. It is my humble request.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "labs",
+        "opinion": "Nothing at all",
+        "sentiment": "positive",
+        "source_feedback": "Comments on labs (if any) with respect to the course and your learning. Nothing at all",
+        "question": "Comments on labs (if any) with respect to the course and your learning"
+      },
+      {
+        "aspect": "Lab work,",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Lab work, classroom sessions, almost the whole lot",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "tedious",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Reduce the workload . The assignments are tedious . Professor is not punctual . Structure needs work . Tutorials are fine .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Tutorials",
+        "opinion": "fine",
+        "sentiment": "positive",
+        "source_feedback": "Is there anything you wish to be changed? Reduce the workload . The assignments are tedious . Professor is not punctual . Structure needs work . Tutorials are fine .",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "assignments.",
+        "opinion": "Terrible",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Terrible assignments. They require project-level effort for little grade. Rubric is strict.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "tasks",
+        "opinion": "No practice tasks exist.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Regarding the hackerrank tasks, I cannot solve them. I had no CS subjects so I fail at coding. No practice tasks exist. Please teach us coding from the start.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Home assignment",
+        "opinion": "helped you learn",
+        "sentiment": "positive",
+        "source_feedback": "What helped you learn in this course? Home assignment and attending lectures regularly",
+        "question": "What helped you learn in this course"
+      },
+      {
+        "aspect": "Laboratory experiments",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Laboratory experiments",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "assignments",
+        "opinion": "awful.",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The assignments are awful. They are like big projects but carry few marks. We lose marks easily.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Practical work",
+        "opinion": "going well",
+        "sentiment": "positive",
+        "source_feedback": "According to you , what is going well in this course? Practical work",
+        "question": "According to you , what is going well in this course"
+      },
+      {
+        "aspect": "IP labs",
+        "opinion": "zero explanation",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? Labs don't match the lectures , lab questions are harder than class examples, unlike DC lab where we get an intro, IP labs give us problems with zero explanation which is bad . Class taught \"if else\" while labs demanded loops.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Homework assignments",
+        "opinion": "are too much proof",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? I find lectures to be confusing and unstructured. If slides could be changed and made more explanatory and correct , it would be better. Also, Homework assignments are too much proof based which I find to be less useful compared to the time and effort we put into them. They are just long and careful proofs which are very obvious and finding a \"rigorous\" proof for them, seems go be a useless exercise.",
+        "question": "Is there anything you wish to be changed"
+      },
+      {
+        "aspect": "Assignment",
+        "opinion": "quite ambiguous,",
+        "sentiment": "negative",
+        "source_feedback": "Is there anything you wish to be changed? The Assignment -  was quite ambiguous, it contained a seperate line which was I suppose written for testing purposes. But just before  hr of the deadline, there was a comment which said that it carry marks or something like that. There were already  predefined tasks, if something else had to be done, then they could have added a seperate task for that. Moreover, if it is possible to write marks against each questions (just like in a question paper), it would be much more clear that what task had to be done and carried weightage. A clarification  hour before deadline should not be the way if it was that important.",
+        "question": "Is there anything you wish to be changed"
+      }
+    ],
+    "child_summaries_used": null,
+    "tuple_counts": {
+      "positive": 38,
+      "negative": 20,
+      "suggestion": 0
+    },
+    "summary_A": "## Appraisals\nStudents found the following aspects of the Labs-Tutorial-Assignment Questions in general to be praiseworthy:\n- The content is described as \"fantastic\" and the theory courses are loved.\n- Tutorials and supplementary materials (like YouTube videos and tutorialspoint resources) are highlighted as helpful.\n- The assignments are appreciated as \"nice\" and \"decent.\"\n- Labs are considered \"good practice.\"\n- The project is seen as a \"good part of the course.\"\n\n## Criticisms\nConcerns and complaints raised by students include:\n- Long and heavy assignments, leading to issues with punctuality and course structure.\n- Vague and unclear assignment questions.\n- Unexplained lab questions and lack of explanations.\n- Instructors not providing adequate explanations for lab exercises.\n- Too much work and assignments that are perceived as boring.\n- Projects being too large for a single-member team.\n- Assignments containing obvious proofs that are deemed a waste of time.\n- Poorly explained lab questions and topics not covered in class.\n- Instructors not punctual and not providing enough explanation during lectures.\n- Unrelated topics being tested in labs without proper preparation in class.\n- Lack of practice tasks and insufficient coding support.\n- Difficulty in solving hackerrank problems due to lack of prior knowledge.\n\n## Suggestions\nSuggestions for improvement include:\n- Providing clearer and more explanatory slides.\n- Offering more practice tasks and coding support.\n- Ensuring lab questions align with the topics covered in class.\n- Making lab assignments easier and providing more explanation.\n- Reducing the workload and making assignments less proof-based.\n- Clarifying the assignment rubrics and providing more detailed instructions.\n- Offering more explanation and guidance during lab sessions.",
+    "summary_B": "Students generally appreciated the various components of the course, particularly the lectures, homeworks, tutorials, and lab sessions, which they found to be helpful in their learning process. Despite some concerns about workload and punctuality, the majority of the feedback highlighted the positive aspects of these elements, indicating that they contributed significantly to their understanding and engagement with the material. The instructors' approach, including the use of supplementary resources like online videos and textbooks, was also noted positively. However, there were suggestions for improvement, such as reducing workload and improving the course structure and timing.",
+    "summary_C": "Students expressed dissatisfaction with Labs-Tutorial-Assignment Questions, citing issues such as assignments being too lengthy, lack of clarity and relevance, insufficient explanations, and overly complex or irrelevant questions. Some noted that topics in assignments did not align with class content, leading to confusion and a lack of effective learning. Additionally, there were complaints about the structure of the course, including inconsistent pacing between lectures and labs, and a heavy workload with assignments that seemed disproportionate to their value. Students also highlighted the need for more practice tasks and clearer instructions, particularly regarding the expectations and grading criteria for assignments and labs.",
+    "summary_D": null
+  },
+  {
+    "eval_id": "course1_professor",
+    "course": "Course-1",
+    "node_name": "Professor",
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor"
+    ],
+    "node_level": 2,
+    "node_type": "internal",
+    "source_tuples": null,
+    "child_summaries_used": {
+      "Punctuality of Professor": {
+        "type2_positive": null,
+        "type3_negative": "Students expressed significant dissatisfaction with the punctuality of the professor, citing issues such as late slide updates, frequent overruns during lectures, and inconsistent timing of class sessions. They noted that assignments were often due at unreasonable times, leading to stress and inefficiency. Additionally, the professor's tendency to go overtime in class was seen as particularly problematic, as it interfered with students' ability to attend subsequent classes and breaks. The overall impression was one of frustration with the course structure and the lack of timely preparation from the professor, which negatively impacted both learning outcomes and student satisfaction.",
+        "type4_suggestion": null
+      },
+      "Pace": {
+        "type2_positive": "Students appreciated the timely and orderly delivery of course content, as evidenced by comments indicating that the pace was appropriate, going well, timely, and on schedule. They also noted that the teaching speed was good and the course content was covered in a logical sequence. While some felt the pace could be adjusted for more advanced topics, overall, the positive sentiment towards the pacing suggests that the instructor and teaching assistants were effective in maintaining a balanced and efficient learning pace.",
+        "type3_negative": "Students expressed significant dissatisfaction with the pace of the course, finding it either too fast, dragging, or rushed, making it difficult for them to keep up. They requested additional resources such as previous year recordings or practice materials to help manage the speed of the lectures. Some noted issues with the pace affecting their ability to grasp concepts, leading to confusion and frustration. Specific complaints included instructors rushing through foundational topics while skipping over critical ones, leaving students feeling unprepared for subsequent material. Additionally, students felt that the pace varied widely across different topics, with some covering material too quickly while others moved at a slower, more manageable pace. Overall, the feedback highlighted the need for a more balanced and deliberate approach to pacing throughout the course.",
+        "type4_suggestion": "Students suggested that the pace of lectures could be improved, with some expressing a desire for it to be adjusted, possibly slowed down to allow for better understanding and retention of material."
+      },
+      "Topics Covered": {
+        "type2_positive": "Students appreciated the comprehensive and informative nature of the topics covered in the course, praising both the theoretical depth and the practical aspects presented. They highlighted the effectiveness of the teaching approach, which managed to cover foundational material alongside more advanced topics, though some felt there was room for quicker progression to delve deeper into certain areas. Additionally, the clarity and relevance of the lectures and accompanying materials were noted as particularly beneficial for understanding complex subjects.",
+        "type3_negative": "Students expressed dissatisfaction with the topics covered in the course, citing several issues. They felt that the professor's teaching did not adequately prepare them for the material in the labs, which they described as overly advanced. Additionally, students noted that the quiz timer was insufficiently long, leading to frustration as they struggled to log in before the time expired. There was also a request for more practice questions and assistance from teaching assistants (TAs) for those who were new to programming.",
+        "type4_suggestion": null
+      },
+      "Pedagogical Skills of Professor": {
+        "type2_positive": "Students appreciated the pedagogical skills of the professor, highlighting their ability to spark interest and enthusiasm for the subject matter, along with clear and helpful explanations that made complex ideas accessible. The teaching was described as effective and varied, with a strong emphasis on practical applications and theoretical concepts. The instructor’s explanations were clear, and the practical examples provided through case studies effectively linked theory to real-world scenarios, enhancing understanding and engagement. The interactivity of the classes, including discussions and lectures, was noted as engaging and enjoyable, with the instructor described as encouraging and supportive. The approachability and helpfulness of both the professor and teaching assistants (TAs) were highlighted, who were clear in their explanations and timely in covering the material. Overall, the feedback underscored the professor's adeptness at making complex ideas accessible and interesting to students, contributing to a positive and supportive learning environment.",
+        "type3_negative": "Students expressed significant dissatisfaction with the professor's pedagogical skills, noting that the pace of lectures was too fast, covering extensive material without sufficient depth, which led to feelings of boredom and disinterest. The classes were perceived as unstructured and monotonous, with the instructor described as merely reading from slides rather than engaging with the material. There was also criticism of the lack of depth in teaching advanced topics and insufficient mathematical content, hindering understanding. Students reported that the professor failed to foster an interest in the course, lectures were confusing and unstructured, and they were unsure about the deeper concepts necessary for effective learning. Regarding personal skills, there were concerns about the clarity of the instructor's voice, which was insufficiently clear, and the speaking style and delivery, which were inadequate to engage them effectively. Issues with the course content extending beyond typical lunch breaks and overlapping with other classes caused inconvenience and time management problems. In terms of interactiveness, students reported unresolved doubts, unclear passing criteria, excessive workload, insufficient content, and pacing that was deemed too rapid. They also noted a lack of attentiveness to their questions during class sessions, with teaching assistants being more focused on grading than on facilitating learning. Finally, students expressed dissatisfaction with the relevance of the material covered and the absence of practical problem-solving exercises, coupled with inadequate support from teaching assistants, contributing to their frustration with the course.",
+        "type4_suggestion": null
+      },
+      "Professor but not specifically about his Punctuality, Pace, Topics Covered, or Pedagogical Skills": {
+        "type2_positive": "Students appreciated several aspects of Professor's teaching, including the quality and effectiveness of lectures, discussions, and overall course materials. They noted that the instructor was effective and engaging, with classes being both fun and informative. Additionally, the pacing and organization of the course were highlighted as strengths, with content being covered in an orderly and timely manner. The instructor's helpfulness and capability were also praised, contributing to a positive learning experience.",
+        "type3_negative": "Students expressed dissatisfaction with the lack of practical relevance in the course content, feeling that important mathematical topics were inadequately covered while less essential linguistic elements received undue emphasis. They also noted issues with pacing, particularly the tendency to extend lectures beyond scheduled times, which made it difficult to retain information. Additionally, students felt that the assessments were unfair, incorporating material that could be easily researched online rather than reflecting actual learning outcomes. There was a general sense that the course lacked sufficient preparation materials for later sessions, leading to difficulties in retaining lecture content. Overall, students felt their learning needs were not adequately met, resulting in disappointment with the course.",
+        "type4_suggestion": "The students suggest that the professor should avoid assuming prior knowledge of specific topics such as Theory of Computation (TOC) and should begin teaching from the foundational concepts, acknowledging that many students have not previously studied these topics. This recommendation aims to ensure that all students, regardless of their background, can follow the course material effectively."
+      }
+    },
+    "tuple_counts": {
+      "positive": 136,
+      "negative": 65,
+      "suggestion": 3
+    },
+    "summary_A": "## Appraisals\nStudents appreciated the pedagogical skills of the professor, highlighting their ability to spark interest and enthusiasm for the subject matter, along with clear and helpful explanations that made complex ideas accessible. The teaching was described as effective and varied, with a strong emphasis on practical applications and theoretical concepts. The instructor’s explanations were clear, and the practical examples provided through case studies effectively linked theory to real-world scenarios, enhancing understanding and engagement.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the professor's pedagogical skills, noting that the pace of lectures was too fast, covering extensive material without sufficient depth, which led to feelings of boredom and disinterest. The classes were perceived as unstructured and monotonous, with the instructor described as merely reading from slides rather than engaging with the material. There was also criticism of the lack of depth in teaching advanced topics and insufficient mathematical content, hindering understanding. Students reported that the professor failed to foster an interest in the course, lectures were confusing and unstructured, and they were unsure about the deeper concepts necessary for effective learning. Regarding personal skills, there were concerns about the clarity of the instructor's voice, which was insufficiently clear, and the speaking style and delivery, which were inadequate to engage them effectively. Issues with the course content extending beyond typical lunch breaks and overlapping with other classes caused inconvenience and time management problems. In terms of interactiveness, students reported unresolved doubts, unclear passing criteria, excessive workload, insufficient content, and pacing that was deemed too rapid. They also noted a lack of attentiveness to their questions during class sessions, with teaching assistants being more focused on grading than on facilitating learning. Finally, students expressed dissatisfaction with the relevance of the material covered and the absence of practical problem-solving exercises, coupled with inadequate support from teaching assistants, contributing to their frustration with the course.\n\n## Suggestions\nThe students suggest that the professor should avoid assuming prior knowledge of specific topics such as Theory of Computation (TOC) and should begin teaching from the foundational concepts, acknowledging that many students have not previously studied these topics. This recommendation aims to ensure that all students, regardless of their background, can follow the course material effectively. Additionally, students requested more practice questions and assistance from teaching assistants (TAs) for those who were new to programming.",
+    "summary_B": "Students appreciated the comprehensive and informative nature of the topics covered in the course, highlighting the effectiveness of the teaching approach, which managed to cover foundational material alongside more advanced topics. The pacing was appreciated as appropriate and timely, with the instructor and teaching assistants maintaining a balanced and efficient learning pace. The pedagogical skills of the professor were commended for sparking interest and enthusiasm, providing clear and helpful explanations that made complex ideas accessible. The interactivity of the classes, including discussions and lectures, was noted as engaging and enjoyable, with the instructor described as encouraging and supportive. The quality and effectiveness of the lectures, along with the helpfulness and capability of the instructor and teaching assistants, contributed to a positive and supportive learning environment. While some felt there was room for quicker progression to delve deeper into certain areas, the overall sentiment towards the professor's teaching was highly positive.",
+    "summary_C": "Students expressed significant dissatisfaction with various aspects of the course, including the professor's punctuality, pace, and the relevance of the topics covered. Concerns centered around the professor's tardiness in updating slides and overrunning lectures, leading to stress and inefficiency. Additionally, assignments were often due at unreasonable times, causing further stress and hindering student performance. The pace of the course was criticized as either too fast, dragging, or rushed, making it challenging for students to keep up with the material. Students requested additional resources and practice materials to better manage the speed of lectures. Moreover, the professor's teaching was perceived as unengaging, with lectures lacking depth and failing to foster an interest in the subject matter. Practical relevance was another area of concern, with students feeling that important mathematical topics were inadequately covered while less essential linguistic elements received undue emphasis. Assessments were also criticized for incorporating material that could be easily researched online, rather than reflecting actual learning outcomes. Students reported difficulties in retaining lecture content due to a lack of adequate preparation materials for later sessions. Overall, the feedback highlighted a range of issues, including poor pacing, insufficient preparation, and a lack of practical relevance, contributing to a sense of frustration and dissatisfaction with the course.",
+    "summary_D": "Students recommended that the professor adjust the pace of lectures to facilitate better understanding and retention of material. Additionally, they suggested avoiding assumptions about prior knowledge, particularly in areas like Theory of Computation, and starting from foundational concepts to ensure that all students can follow the course content effectively."
+  },
+  {
+    "eval_id": "course1_general",
+    "course": "Course-1",
+    "node_name": "General",
+    "node_path": [
+      "root",
+      "General"
+    ],
+    "node_level": 1,
+    "node_type": "internal",
+    "source_tuples": null,
+    "child_summaries_used": {
+      "Suggestions": {
+        "type2_positive": null,
+        "type3_negative": null,
+        "type4_suggestion": "Students have provided a range of suggestions aimed at improving various aspects of the course. These include enhancing course material through the addition of more program questions and lab exercises, simplifying lab questions, providing more detailed slides, reducing quiz and assignment difficulty, offering more comprehensive explanations and examples, and conducting more tutorials and practical sessions. Evaluation improvements involve a balanced mix of question types in quizzes and exams, extended deadlines for assignments, and fair grading practices. Lectures could benefit from a moderate pace, clearer explanations, and structured sessions with supplementary materials. The course structure could be streamlined by reducing workload, offering more tutorials and practical sessions, and structuring teaching to align with student understanding. Additionally, students advocate for more experienced TAs, the removal of stringent passing criteria, clearer assignment guidelines, and increased TA support."
+      },
+      "Everything": {
+        "type2_positive": "Students praised the course for its overall quality, expressing that everything was going well across various aspects including lectures, labs, and the entire curriculum. They noted that the course content was comprehensive and engaging, with no significant issues reported. Feedback indicated satisfaction with the balance of theoretical knowledge and practical application, suggesting that the course effectively covered all necessary material while maintaining a good pace and depth.",
+        "type3_negative": "Students expressed dissatisfaction with the course, primarily because they felt it did not facilitate effective learning through structured instruction or collaborative activities, instead encouraging them to rely solely on self-directed study, which they perceived as insufficient for comprehensive understanding of the topic \"Everything\".",
+        "type4_suggestion": null
+      },
+      "Nothing": {
+        "type2_positive": "Students appreciated responses indicating that there were no suggestions for improvement or changes needed. Phrases such as \"nothing,\" \"no suggestions,\" \"nothing at all,\" \"no comments,\" \"no feedback,\" \"no changes,\" \"Absolutely nothing,\" and \"Not really\" were highlighted positively by students, suggesting that they valued straightforwardness and a lack of criticism or areas for enhancement.",
+        "type3_negative": "Students expressed dissatisfaction with the course, indicating that it lacked notable aspects or improvements. They felt that there were no significant changes or enhancements, and that the course did not effectively help them learn. The feedback suggests that students perceived the course as stagnant, with no standout features or beneficial elements. Additionally, they struggled to identify what was going well, expressing confusion or frustration when asked to pinpoint positive aspects.",
+        "type4_suggestion": null
+      },
+      "General not Suggestions, Everything, or Nothing": {
+        "type2_positive": "Students appreciated various aspects of the course, including its theoretical content described as \"fantastic\" and \"excellent,\" practical approaches through recordings and recorded lectures, the effectiveness of the online platform for rewatching topics, and the supportive environment fostered by peer discussions and competitive peers. The course was also highlighted as having a \"best semester\" experience, with instructors noted for their encouragement and the overall structure of lectures, homework, and quizzes being well-planned. Students found the course's demanding nature and the need for intuition beneficial, though some suggested reducing the syllabus to alleviate the course's heaviness. Overall, the sentiment expressed was predominantly positive, with multiple students describing the course as \"loved\" and \"amazing.\"",
+        "type3_negative": "Students expressed significant dissatisfaction with the course, citing issues such as overly extensive and computationally demanding assignments that felt more like a burden than a learning experience. They also criticized the lack of focus on actual learning and the emphasis on completing tasks, which they felt created undue pressure. Additionally, students noted that online resources were the primary means of learning, indicating a reliance on external materials rather than the course content itself. There were complaints about the instructor not utilizing teaching assistants effectively and not adequately addressing student queries. Overall, students felt that the course did not meet their expectations, with many suggesting that the balance between learning and practical application could be improved.",
+        "type4_suggestion": null
+      }
+    },
+    "tuple_counts": {
+      "positive": 92,
+      "negative": 25,
+      "suggestion": 163
+    },
+    "summary_A": "## Appraisals\nStudents appreciated various aspects of the course, including its theoretical content described as \"fantastic\" and \"excellent,\" practical approaches through recordings and recorded lectures, the effectiveness of the online platform for rewatching topics, and the supportive environment fostered by peer discussions and competitive peers. The course was also highlighted as having a \"best semester\" experience, with instructors noted for their encouragement and the overall structure of lectures, homework, and quizzes being well-planned. Students found the course's demanding nature and the need for intuition beneficial, though some suggested reducing the syllabus to alleviate the course's heaviness. Overall, the sentiment expressed was predominantly positive, with multiple students describing the course as \"loved\" and \"amazing.\"\n\n## Criticisms\nStudents expressed significant dissatisfaction with the course, citing issues such as overly extensive and computationally demanding assignments that felt more like a burden than a learning experience. They also criticized the lack of focus on actual learning and the emphasis on completing tasks, which they felt created undue pressure. Additionally, students noted that online resources were the primary means of learning, indicating a reliance on external materials rather than the course content itself. There were complaints about the instructor not utilizing teaching assistants effectively and not adequately addressing student queries. Overall, students felt that the course did not meet their expectations, with many suggesting that the balance between learning and practical application could be improved.\n\n## Suggestions\nNo feedback of this type.",
+    "summary_B": "Students praised the course for its comprehensive and engaging content, noting that it balanced theoretical knowledge with practical application effectively. They appreciated the straightforward approach, with no significant suggestions for improvement or changes needed. The theoretical content was described as \"fantastic\" and \"excellent,\" and the practical elements through recordings and recorded lectures were highly valued. The online platform facilitated easy rewatching of topics, and the supportive environment fostered by peer discussions and competitive peers was noted positively. Students also highlighted the supportive instructor environment, with encouragement and well-structured lectures, homework, and quizzes. While some felt the course was demanding and heavy, students generally enjoyed their \"best semester\" experience, describing it as \"loved\" and \"amazing.\"",
+    "summary_C": "Students expressed significant dissatisfaction with the course, citing issues such as an overemphasis on self-directed study without adequate structured instruction or collaborative activities, leading to feelings of insufficient support for comprehensive understanding. Additionally, they highlighted the course's perceived stagnation with no standout features or beneficial elements, and complained about overly extensive and computationally demanding assignments that felt burdensome rather than educational. Students also noted a reliance on online resources rather than course content, and voiced frustration with the instructor's lack of engagement with teaching assistants and inadequate response to student queries. Overall, there was a sense that the course failed to strike an effective balance between learning and practical application, leaving students feeling unsatisfied despite suggestions for improvement.",
+    "summary_D": "Students have suggested several improvements to enhance their learning experience, including adding more program questions and lab exercises, simplifying lab questions, providing more detailed slides, reducing quiz and assignment difficulty, offering more comprehensive explanations and examples, and conducting more tutorials and practical sessions. To evaluate these changes effectively, a balanced mix of question types in quizzes and exams, extended deadlines for assignments, and fair grading practices are recommended. Lectures could be enhanced by maintaining a moderate pace, offering clearer explanations, and structuring sessions with supplementary materials. Streamlining the course structure involves reducing workload, offering more tutorials and practical sessions, and aligning teaching methods with student comprehension. Students also advocate for more experienced Teaching Assistants (TAs), the removal of stringent passing criteria, clearer assignment guidelines, and increased TA support."
+  },
+  {
+    "eval_id": "course1_root",
+    "course": "Course-1",
+    "node_name": "root",
+    "node_path": [
+      "root"
+    ],
+    "node_level": 0,
+    "node_type": "internal",
+    "source_tuples": null,
+    "child_summaries_used": {
+      "Structure of Course": {
+        "type2_positive": "Students appreciated the diverse aspects of the course, including effective lectures, engaging discussions, and high-quality course content. They found the practical applications of programming and Python implementation tasks useful and highlighted the clarity and interest in the teaching methodology, with examples used effectively to explain complex topics. Regarding organization, they praised the timely discussions of homework solutions, well-planned classes, homeworks, and quizzes, which they deemed crucial for learning. The logical sequencing of topics and the helpfulness of instructors and teaching assistants in delivering the material were also noted as strengths. Additionally, the challenging nature of the course, combined with its well-structured content, was seen as beneficial for their learning process. The optional attendance policy was appreciated for allowing flexibility while maintaining a supportive class size, contributing to an overall satisfactory learning experience.",
+        "type3_negative": "Students expressed dissatisfaction with the Structure of the Course, citing issues such as outdated content, slow pacing, a lack of practical sessions and implementation practice, overwhelming theory components, and redundant proof-based assignments. The organization of the course was criticized for poorly managed instruction, lack of coherence between lectures and labs, inconsistent lab content, insufficient preparation for the final assignment, and a mismatch between lecture material and lab exercises. The difficulty of the course was highlighted by its fast-paced nature, perceived as too challenging for third-year B.Tech students, and excessive difficulty in quizzes and assignments. Concerns over workload included frequent and tight deadlines, excessive pressure, unclear instructions, and insufficient resources, leading to feelings of being overwhelmed. Suggestions for improvement encompassed reducing the pace, offering more support materials, adjusting the course load, providing clearer instructions, and better managing the workload. Overall, students called for more structured lectures, clearer explanations, practical demonstrations, and a more balanced approach to content delivery and assessment.",
+        "type4_suggestion": null
+      },
+      "Evaluation": {
+        "type2_positive": "Students appreciated the quizzes in the course, which they found useful for learning and preparing for assessments. These regular quizzes, combined with other evaluation methods like homework and tutorials, were deemed essential for enhancing their understanding and readiness for assessments. Additionally, the fairness of evaluations and the quality of lectures were highlighted as positive aspects. The consistent presence of quizzes was particularly valued for reinforcing learning throughout the course.",
+        "type3_negative": "Students expressed significant dissatisfaction with the grading criteria, which they found overly stringent and inflexible, often requiring substantial effort for minimal grade weight, thereby perceived as unfair. The grading criteria favored students with better access to resources, undermining the fairness and inclusivity of the assessment process. This dissatisfaction extended to the correctness in evaluation, where students criticized the casual assignment of marks and rigid adherence to a narrow evaluation rubric that did not accommodate alternative correct solutions. Furthermore, there was a notable issue with the quality, difficulty, and relevance of questions in assessments, which were found to be overly challenging, poorly aligned with lecture content, and reliant on rote memorization. Students advocated for a more balanced approach, including a variety of question types that tested both foundational knowledge and deeper understanding, and recommended skipping certain lecture slides to better align with assessment timing. They also stressed the need for more practice exercises and supplementary materials to better prepare them for assessments, highlighting the reliance on rote learning and the mismatch between the curriculum and evaluation methods as significant drawbacks that impacted students' performance and understanding. Overall, these critiques underscored the need for a more inclusive, fair, and effective evaluation system.",
+        "type4_suggestion": "To improve the evaluation process, students highlighted the necessity of clearly defining and consistently applying grading criteria across all Teaching Assistants (TAs) to reduce perceived bias. Additionally, assigning one TA per group assignment was recommended to ensure equitable participation and minimize grade disparities. Enhancing transparency in communication about grading standards and expectations is also crucial to build trust between students and TAs. Moreover, the students propose implementing an n-1 policy for assignments and quizzes to address challenges associated with difficult assessments and low marks, and they advocate for compensating for projects to rectify overall evaluation issues, suggesting a need for comprehensive adjustments beyond just quiz and assignment evaluations."
+      },
+      "Course Material": {
+        "type2_positive": "Students appreciated the overall quality and appropriateness of the course materials, including lectures, tutorials, and resource provision, finding them detailed and offering varied perspectives. They commended the detailed notes and helpful tutorials, which were seen as going well. The pace of the course was considered suitable, and the content was described as high quality. Reference materials such as books and papers were highlighted as particularly helpful, aiding understanding alongside lectures, online tutorials, and supplementary materials. Students also noted the quality and thoroughness of the lecture slides, appreciating their extensive coverage and effective organization with relevant examples. However, there were suggestions for improvements, including clearer question writing in assignments and tutorials, and reduced workload. The labs, tutorials, and assignments were praised for fostering critical thinking and mathematical rigor, though there were calls for more time allowance and refined course structure.",
+        "type3_negative": "The course material faced widespread criticism, with students expressing dissatisfaction regarding the Lecture Slides, Labs-Tutorial-Assignment Questions, and Extra Material. Concerns centered around the Lecture Slides, which were criticized for containing errors, being poorly paced, and failing to adequately cover advanced mathematical concepts or provide sufficient foundational support. Similarly, Labs-Tutorial-Assignment Questions were deemed irrelevant and poorly aligned with the syllabus, offering complex tasks without adequate preparation or guidance, and often incorporating advanced topics not covered in class. The Extra Material was criticized for lacking supplementary resources to reinforce advanced mathematical concepts, making it difficult for students to prepare adequately for rigorous assessments. Overall, there was a perception of inadequate preparation, mismatched expectations, and a lack of clarity in the course structure and delivery.",
+        "type4_suggestion": "To enhance the quality of lecture slides, students recommended integrating more textual content with images and mathematical formulas, recognizing that while advanced topics were covered, foundational explanations were insufficient, causing confusion. Additionally, they suggested offering clearer definitions and explanations for technical terms like Attention and GRU models, and proposed more frequent and shorter assignments to support individual learning and a spaced-out schedule."
+      },
+      "Lecture Delivery": {
+        "type2_positive": "Students praised the Teaching Assistants (TAs) for their punctuality, effective session management, addressing doubts, and conducting quizzes efficiently, enhancing the learning experience. The Professor demonstrated strong pedagogical skills through clear and approachable teaching methods, clear explanations, and a supportive demeanor that fostered interactive and engaging tutorials, assignments, and lectures. The pacing was well-managed, balancing foundational and advanced topics effectively. The interactivity of classes, including discussions and lectures, was noted as engaging and enjoyable, with the instructor described as encouraging and supportive. The quality and effectiveness of the lectures, along with the helpfulness and capability of the instructor and teaching assistants, contributed to a positive and supportive learning environment. While some students felt there was room for quicker progression in certain areas, the overall sentiment towards the professor's teaching was highly positive.",
+        "type3_negative": "Students have expressed significant dissatisfaction with the lecture delivery, citing issues such as an overwhelming pace of content, inadequate practical guidance from both professors and teaching assistants, and a lack of detailed explanations and extended examples. They also requested more detailed explanations and practical sessions, along with extended quiz durations. Furthermore, students noted that the course material sometimes lacked practical relevance, focusing on certain mathematical topics at the expense of others. The professor's teaching was perceived as unengaging, and assignments were criticized for incorporating easily accessible online information rather than reflecting actual learning outcomes. These factors collectively contributed to a sense of frustration and difficulty in retaining lecture content, leading to a negative perception of the course delivery.",
+        "type4_suggestion": "The professor should adapt the lecture pace to enhance student comprehension and retention, while also being mindful of assuming prior knowledge, especially in complex subjects such as Theory of Computation, by beginning with fundamental concepts to support all learners."
+      },
+      "General": {
+        "type2_positive": "Students praised the course for its comprehensive and engaging content, noting that it balanced theoretical knowledge with practical application effectively. They appreciated the straightforward approach, with no significant suggestions for improvement or changes needed. The theoretical content was described as \"fantastic\" and \"excellent,\" and the practical elements through recordings and recorded lectures were highly valued. The online platform facilitated easy rewatching of topics, and the supportive environment fostered by peer discussions and competitive peers was noted positively. Students also highlighted the supportive instructor environment, with encouragement and well-structured lectures, homework, and quizzes. While some felt the course was demanding and heavy, students generally enjoyed their \"best semester\" experience, describing it as \"loved\" and \"amazing.\"",
+        "type3_negative": "Students expressed significant dissatisfaction with the course, citing issues such as an overemphasis on self-directed study without adequate structured instruction or collaborative activities, leading to feelings of insufficient support for comprehensive understanding. Additionally, they highlighted the course's perceived stagnation with no standout features or beneficial elements, and complained about overly extensive and computationally demanding assignments that felt burdensome rather than educational. Students also noted a reliance on online resources rather than course content, and voiced frustration with the instructor's lack of engagement with teaching assistants and inadequate response to student queries. Overall, there was a sense that the course failed to strike an effective balance between learning and practical application, leaving students feeling unsatisfied despite suggestions for improvement.",
+        "type4_suggestion": "Students have suggested several improvements to enhance their learning experience, including adding more program questions and lab exercises, simplifying lab questions, providing more detailed slides, reducing quiz and assignment difficulty, offering more comprehensive explanations and examples, and conducting more tutorials and practical sessions. To evaluate these changes effectively, a balanced mix of question types in quizzes and exams, extended deadlines for assignments, and fair grading practices are recommended. Lectures could be enhanced by maintaining a moderate pace, offering clearer explanations, and structuring sessions with supplementary materials. Streamlining the course structure involves reducing workload, offering more tutorials and practical sessions, and aligning teaching methods with student comprehension. Students also advocate for more experienced Teaching Assistants (TAs), the removal of stringent passing criteria, clearer assignment guidelines, and increased TA support."
+      }
+    },
+    "tuple_counts": {
+      "positive": 370,
+      "negative": 230,
+      "suggestion": 169
+    },
+    "summary_A": "## Appraisals\nStudents appreciated the diverse aspects of the course, including effective lectures, engaging discussions, and high-quality course content. They found the practical applications of programming and Python implementation tasks useful and highlighted the clarity and interest in the teaching methodology, with examples used effectively to explain complex topics. Regarding organization, they praised the timely discussions of homework solutions, well-planned classes, homeworks, and quizzes, which they deemed crucial for learning. The logical sequencing of topics and the helpfulness of instructors and teaching assistants in delivering the material were also noted as strengths. Additionally, the challenging nature of the course, combined with its well-structured content, was seen as beneficial for their learning process. The optional attendance policy was appreciated for allowing flexibility while maintaining a supportive class size, contributing to an overall satisfactory learning experience.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the course, citing issues such as an overemphasis on self-directed study without adequate structured instruction or collaborative activities, leading to feelings of insufficient support for comprehensive understanding. Additionally, they highlighted the course's perceived stagnation with no standout features or beneficial elements, and complained about overly extensive and computationally demanding assignments that felt burdensome rather than educational. Students also noted a reliance on online resources rather than course content, and voiced frustration with the instructor's lack of engagement with teaching assistants and inadequate response to student queries. Overall, there was a sense that the course failed to strike an effective balance between learning and practical application, leaving students feeling unsatisfied despite suggestions for improvement.\n\n## Suggestions\nTo enhance the course, students have suggested several improvements to their learning experience, including adding more program questions and lab exercises, simplifying lab questions, providing more detailed slides, reducing quiz and assignment difficulty, offering more comprehensive explanations and examples, and conducting more tutorials and practical sessions. To evaluate these changes effectively, a balanced mix of question types in quizzes and exams, extended deadlines for assignments, and fair grading practices are recommended. Lectures could be enhanced by maintaining a moderate pace, offering clearer explanations, and structuring sessions with supplementary materials. Streamlining the course structure involves reducing workload, offering more tutorials and practical sessions, and aligning teaching methods with student comprehension. Students also advocate for more experienced Teaching Assistants (TAs), the removal of stringent passing criteria, clearer assignment guidelines, and increased TA support.",
+    "summary_B": "Students appreciated the diverse and engaging aspects of the course, including effective lectures, interactive discussions, and high-quality course content. They found the practical applications of programming and Python implementation tasks useful and highlighted the clarity and interest in the teaching methodology, with examples used effectively to explain complex topics. Regarding organization, they praised the timely discussions of homework solutions, well-planned classes, homeworks, and quizzes, which they deemed crucial for learning. The logical sequencing of topics and the helpfulness of instructors and teaching assistants in delivering the material were also noted as strengths. The challenging nature of the course, combined with its well-structured content, was seen as beneficial for their learning process. The optional attendance policy was appreciated for allowing flexibility while maintaining a supportive class size, contributing to an overall satisfactory learning experience. Students also commended the fairness and quality of evaluations, including the usefulness of regular quizzes, homeworks, and tutorials for enhancing their understanding and readiness for assessments. The course material, including detailed and varied lectures, tutorials, and resource provision, was highly regarded for its thoroughness and relevance. The pacing of the course was considered suitable, and the content was described as high quality. The interactivity of classes, including discussions and lectures, was noted as engaging and enjoyable, with the instructor described as encouraging and supportive. While some students felt there was room for quicker progression in certain areas, the overall sentiment towards the professor's teaching was highly positive. Students praised the course for its comprehensive and engaging content, noting that it balanced theoretical knowledge with practical application effectively. They enjoyed their \"best semester\" experience, describing it as \"loved\" and \"amazing,\" despite some feeling the course was demanding and heavy.",
+    "summary_C": "Students expressed significant dissatisfaction with various aspects of the course, including its structure, evaluation, course material, lecture delivery, and overall delivery. Critiques of the course structure highlighted outdated content, slow pacing, a lack of practical sessions, overwhelming theory components, and redundant proof-based assignments. Concerns over evaluation included overly stringent grading criteria, inflexibility, and a narrow evaluation rubric that favored resource-rich students. Assessments were criticized for being overly challenging, poorly aligned with lecture content, and relying heavily on rote memorization. Issues with course material included errors in lecture slides, irrelevant and poorly aligned Labs-Tutorial-Assignment Questions, and a lack of supplementary resources for advanced mathematical concepts. Lecture delivery was perceived as overwhelming, with an inadequate pace, insufficient practical guidance, and a lack of detailed explanations and extended examples. Students also reported feelings of insufficient support, stagnation, and reliance on online resources rather than course content. Overall, the course was seen as failing to strike an effective balance between learning and practical application, leading to a sense of frustration and dissatisfaction among students.",
+    "summary_D": "To improve the evaluation process, students recommend clearly defining and consistently applying grading criteria across all Teaching Assistants (TAs) to reduce perceived bias, assigning one TA per group assignment to ensure equitable participation and minimize grade disparities, enhancing transparency in communication about grading standards and expectations, and implementing an n-1 policy for assignments and quizzes to address challenges and rectify overall evaluation issues. In terms of course material, students suggest integrating more textual content with images and mathematical formulas into lecture slides, offering clearer definitions and explanations for technical terms, and providing more frequent and shorter assignments to support individual learning and a spaced-out schedule. For lecture delivery, students advocate for adapting the lecture pace to enhance student comprehension and retention, being mindful of assuming prior knowledge, and starting with fundamental concepts. Across the board, students propose adding more program questions and lab exercises, simplifying lab questions, providing more detailed slides, reducing quiz and assignment difficulty, offering more comprehensive explanations and examples, and conducting more tutorials and practical sessions. To evaluate these changes effectively, a balanced mix of question types in quizzes and exams, extended deadlines for assignments, and fair grading practices are recommended. Lectures should maintain a moderate pace, offer clearer explanations, and include supplementary materials. Streamlining the course structure involves reducing workload, offering more tutorials and practical sessions, and aligning teaching methods with student comprehension. Students also advocate for more experienced Teaching Assistants (TAs), the removal of stringent passing criteria, clearer assignment guidelines, and increased TA support."
+  }
+]

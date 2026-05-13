@@ -1,0 +1,584 @@
+{
+  "Interactiveness of TAs": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Teaching Assistants (TAs)",
+      "Pedagogical Skills of TAs",
+      "Interactiveness of TAs"
+    ],
+    "node_level": 4,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents praised the approachability and helpfulness of TAs in the course, noting that they were always available to assist with questions and doubts. They appreciated how TAs went out of their way to accommodate students' needs, such as providing help during odd hours when needed. Additionally, the positive sentiment towards TAs was evident in their description of them as \"excellent,\" \"great,\" and \"helped a lot with the subject.\" Furthermore, students appreciated how TAs conducted sessions, resolved doubts, and distributed quizzes in a timely manner, which was seen as crucial for enhancing the learning experience and understanding of course material.\n\n## Criticisms\nNo feedback of this type.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students praised the approachability and helpfulness of TAs, noting that they were always available to assist with questions and doubts, and went out of their way to accommodate students' needs. Additionally, TAs conducted sessions effectively, resolved doubts promptly, and distributed quizzes in a timely manner, which was seen as crucial for enhancing the learning experience and understanding of course material. Overall, the feedback underscored the TAs' proactive and supportive role in making the course more engaging and accessible.",
+    "type3_negative": null,
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 8,
+      "negative": 0,
+      "suggestion": 0,
+      "total": 8
+    },
+    "children_used": [
+      "Approachability of TAs",
+      "Interactiveness of TAs not specifically Approachability"
+    ]
+  },
+  "Granularity of Teaching": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pedagogical Skills of Professor",
+      "Granularity of Teaching"
+    ],
+    "node_level": 4,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the course's granularity, highlighting that the examples used in class and the instructor's demonstrations were effective teaching tools, which contributed positively to the overall quality of instruction by engaging students and providing clear illustrations of concepts.\n\n## Criticisms\nNo feedback of this type.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the course's granularity, particularly noting that the examples used in class and the instructor's demonstrations were effective teaching tools, which contributed positively to the overall quality of instruction by engaging students and providing clear illustrations of concepts.",
+    "type3_negative": null,
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 2,
+      "negative": 0,
+      "suggestion": 0,
+      "total": 2
+    },
+    "children_used": [
+      "Granularity of Teaching not Fine"
+    ]
+  },
+  "Personal Skills of Professor": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pedagogical Skills of Professor",
+      "Personal Skills of Professor"
+    ],
+    "node_level": 4,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nNo feedback of this type.\n\n## Criticisms\nStudents expressed dissatisfaction with the professor's personal skills, particularly regarding their inability to be heard clearly, especially from the back of the classroom. They noted issues with both the professor's voice being too soft or unclear and the practice of reading code aloud during lectures, which they felt hindered their ability to follow along effectively. These observations suggest that the professor's auditory presence and the method of delivering certain content could be improved for better engagement and comprehension among all students.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": null,
+    "type3_negative": "Students expressed dissatisfaction with the instructor's clarity both verbally and in terms of pacing, noting that the instructor spoke unclearly at times and often spoke too quickly, making it difficult for them to follow along. Additionally, they observed inconsistencies in the instructor's ability to clearly articulate his points, as evidenced by instances where he himself became confused during questions, leading to further confusion among the students. Concerns were also raised about the professor's personal skills, specifically regarding the clarity of their voice and the practice of reading code aloud during lectures, which hindered students' ability to follow along effectively, suggesting improvements are needed in auditory presence and content delivery methods.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 5,
+      "suggestion": 0,
+      "total": 5
+    },
+    "children_used": [
+      "Voice",
+      "Personal Skills of Professor but not about Voice"
+    ]
+  },
+  "Interactiveness of Professor": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pedagogical Skills of Professor",
+      "Interactiveness of Professor"
+    ],
+    "node_level": 4,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the interactiveness of the professor's classes, noting that discussions and sessions were going well and lively. They also highlighted that the professor was engaging and made the sessions interesting and enjoyable. The energy and liveliness in class were consistently praised, indicating that the professor effectively facilitated an interactive learning environment.\n\n## Criticisms\nNo feedback of this type.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the interactiveness of the professor's classes, noting that discussions and sessions were lively and engaging, with the professor making them both interesting and enjoyable. They also highlighted that the professor was highly approachable, always open for questions and very helpful, especially in addressing doubts and attending to student requests. This singular praise for the professor's approachability stood out alongside the consistent appreciation for the liveliness and energy in class, which facilitated an effective interactive learning environment.",
+    "type3_negative": null,
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 30,
+      "negative": 0,
+      "suggestion": 0,
+      "total": 30
+    },
+    "children_used": [
+      "Approachability of Professor",
+      "Interactiveness of Professor not specifically Approachability"
+    ]
+  },
+  "Relevance of Lecture Slides": {
+    "node_path": [
+      "root",
+      "Course Material",
+      "Lecture Slides",
+      "Relevance of Lecture Slides"
+    ],
+    "node_level": 3,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nNo feedback of this type.\n\n## Criticisms\nStudents expressed dissatisfaction with the course's coverage of topics, citing issues such as a lack of mathematical depth, repetition of material from Natural Language Processing (NLP), and an uneven distribution of content towards the latter part of the course. Additionally, the absence of exam practice materials led them to perceive the exam questions as overly challenging.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": null,
+    "type3_negative": "Students critiqued the lecture slides for insufficient mathematical depth and repeated material from Natural Language Processing, alongside a perceived imbalance in coverage, favoring NLP at the expense of other subjects. The lack of exam practice materials further exacerbated their perception of exam questions as excessively difficult, prompting a call for better alignment of course content and enhanced preparation resources.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 3,
+      "suggestion": 0,
+      "total": 3
+    },
+    "children_used": [
+      "Coverage of Topics"
+    ]
+  },
+  "Quality of Labs-Tutorial-Assignment Questions": {
+    "node_path": [
+      "root",
+      "Course Material",
+      "Labs-Tutorial-Assignment Questions",
+      "Quality of Labs-Tutorial-Assignment Questions"
+    ],
+    "node_level": 3,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the quality of assignments, noting that they effectively develop necessary skills and were well-designed, contributing positively to their learning experience. Additionally, the overall course content, including well-developed slides, was deemed beneficial, further enhancing the quality of the labs, tutorials, and assignments.\n\n## Criticisms\nStudents expressed dissatisfaction with assignments, citing them as large projects with insufficient weight and grading criteria that were overly stringent or arbitrary. They felt these assessments were burdensome and unfairly penalized minor issues, indicating a lack of clarity and fairness in assignment design and evaluation.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the quality of assignments, which effectively developed necessary skills and were well-designed, contributing positively to their learning experience. The course content, including well-developed slides, was also deemed beneficial, enhancing the quality of the labs, tutorials, and assignments.",
+    "type3_negative": "Students reported difficulties with the quality of labs, tutorials, and assignments, which they found excessively challenging and overwhelming. There was a notable mismatch between the complexity of these tasks and the material covered in lectures, with labs often proving more difficult than the theoretical content. Assignments were criticized for being disproportionately complex and poorly aligned with the learning objectives, leading to frustration and stress among students. Online quizzes and tests were also perceived as overly difficult. Suggestions included aligning the difficulty levels more closely with lecture content and providing more support from teaching assistants. Furthermore, students highlighted issues with the pacing of lectures, which they described as too rapid, especially concerning programming concepts. Regarding the quality of assignments, students expressed dissatisfaction with the lack of clear criteria and the stringent grading standards, which they felt were unfair and overly punitive. These concerns collectively underscored the need for significant improvements in both the difficulty and quality of assessment tasks to enhance student engagement and satisfaction.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 2,
+      "negative": 29,
+      "suggestion": 0,
+      "total": 31
+    },
+    "children_used": [
+      "Difficulty of Labs-Tutorial-Assignment Questions",
+      "Quality of Labs-Tutorial-Assignment Questions not Difficulty"
+    ]
+  },
+  "Pedagogical Skills of TAs": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Teaching Assistants (TAs)",
+      "Pedagogical Skills of TAs"
+    ],
+    "node_level": 3,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the effectiveness of the Teaching Assistants (TAs), describing them as \"fine\" and \"perfect,\" indicating they provided valuable support. They also noted that the instructor was \"good\" and taught \"well,\" along with finding assignments \"useful\" and \"relevant.\" Additionally, students praised the subject knowledge of the TAs, noting that they were quite knowledgeable, contributing positively to their learning experience. Furthermore, the TAs were described as approachable and helpful, always available to assist with questions and doubts, and resolving doubts promptly. Overall, the feedback highlighted the TAs' role in making the course more engaging and accessible.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the effectiveness of the TAs, citing them as largely unhelpful and of little value during tutorials. They felt that TAs did not contribute meaningfully to their learning experience, often being engaged in conversations among themselves rather than providing guidance or explanations. Additionally, students noted that TAs were ineffective in explaining course material, leading to confusion and frustration. The overall sentiment was that TAs failed to enhance the learning process, making tutorials feel like an unnecessary and unproductive exercise.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the effectiveness of the TAs, who were described as \"fine\" and \"perfect,\" providing valuable support. The instructors were also commended for teaching well, and assignments were found to be useful and relevant. The overall course was deemed well-rounded, with contributions from all components, including TAs, instructors, and assignments. Furthermore, the TAs demonstrated strong subject knowledge, contributing positively to the learning experience. Students highlighted the approachability and helpfulness of the TAs, noting their availability to assist with questions and doubts and their prompt resolution of issues. The TAs conducted sessions effectively, resolving doubts and distributing quizzes in a timely manner, which enhanced the learning experience and understanding of course material. Lastly, the tutorials conducted by the TAs were recognized as instrumental in aiding students in grasping the material effectively.",
+    "type3_negative": "Students reported substantial dissatisfaction with the effectiveness of Teaching Assistants (TAs), highlighting their perception of them as largely unhelpful and of little value during tutorials. They found TAs ineffective in providing meaningful guidance or explanations, which led to confusion and frustration regarding course material. Moreover, students observed that TAs frequently engaged in conversations among themselves rather than offering assistance, further diminishing their role in enhancing the learning experience. Overall, the sentiment was that TAs failed to contribute positively to the tutorial sessions, making them feel unnecessary and unproductive. Consequently, students viewed the presence of TAs as a hindrance rather than an asset to their educational progress.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 14,
+      "negative": 3,
+      "suggestion": 0,
+      "total": 17
+    },
+    "children_used": [
+      "Effectiveness of TAs",
+      "Subject Knowledge of TAs",
+      "Interactiveness of TAs",
+      "Pedagogical Skills of TAs but not specifically about Effectiveness, Subject Knowledge, or Interactiveness"
+    ]
+  },
+  "Pedagogical Skills of Professor": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor",
+      "Pedagogical Skills of Professor"
+    ],
+    "node_level": 3,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the professor's effectiveness, noting that they found the teaching methods engaging and enjoyable, with clear explanations and interactive sessions. The professor was praised for their thorough knowledge of the subject matter and their ability to make complex topics accessible and interesting. Additionally, the professor’s passion for teaching and their high-quality instruction were highlighted as strengths.\n\n## Criticisms\nStudents expressed dissatisfaction with the professor's teaching effectiveness, citing issues such as unengaging lectures, shallow depth, and a lack of coherence between lectures and practical sessions. They also noted problems with the abstract nature of some topics and the professor's reliance on slides rather than engaging with material, leading to confusion and frustration.\n\n## Suggestions\nStudents suggested improving the effectiveness of the professor by adjusting the delivery method to ensure consistent quality throughout the course. They recommended against offering the course online, citing significant differences between online and in-person lectures that negatively impacted the understanding of concepts in the initial part of the course.",
+    "type2_positive": "Students appreciated the effectiveness of the professor, who helped them learn through various means such as classes, lectures, and textbooks, and provided clear explanations of theoretical concepts. The professor's teaching style, characterized by engaging lectures and interactive methods, had a positive impact on their learning experience. Students also noted the granular approach of the course, with effective examples and demonstrations that contributed to a quality learning environment. The subject knowledge of the professor was thoroughly engaged, and his lectures were both interesting and informative, aiding in the deepening of their understanding of the subject matter. Furthermore, the professor's pedagogical skills were highly valued, including the ability to deliver clear and effective lectures, emphasize theory, and foster a passion for teaching. The professor was praised for being highly approachable, always available for questions and assistance, creating an interactive and enjoyable learning atmosphere. Overall, the professor's teaching was seen as effective, well-structured, and engaging, contributing significantly to the students' educational experience.",
+    "type3_negative": "Students expressed dissatisfaction with the professor's pedagogical skills, highlighting issues such as lectures being unengaging, shallow in depth, and lacking coherence between lectures and practical sessions, which increased stress and confusion. They criticized the professor's clarity, both verbally and in pacing, finding the instructor's speech unclear and often too rapid, making it difficult to follow. The professor's inconsistent ability to articulate points and occasional confusion during question periods further compounded this issue. Moreover, students noted that the professor struggled to convey concepts effectively and that the material was perceived as irrelevant, contributing to boredom. There were also concerns about the professor's management skills, leading to missed assignments and ineffective instruction, thereby undermining the overall learning experience.",
+    "type4_suggestion": "Based on students' feedback, there is a need to enhance the effectiveness of the professor by addressing the disparity in course performance between online and in-person lectures, which affected understanding initially but improved later. Adjustments should be made to ensure a consistent quality of teaching throughout the course, recognizing the importance of effective communication and engagement irrespective of the delivery format.",
+    "tuple_counts": {
+      "positive": 105,
+      "negative": 23,
+      "suggestion": 2,
+      "total": 130
+    },
+    "children_used": [
+      "Effectiveness of Professor",
+      "Granularity of Teaching",
+      "Subject Knowledge of Professor",
+      "Personal Skills of Professor",
+      "Interactiveness of Professor",
+      "Pedagogical Skills of Professor but not specifically about Effectiveness, Granularity of Teaching, Subject Knowledge, Personal Skills, or Interactiveness"
+    ]
+  },
+  "Workload": {
+    "node_path": [
+      "root",
+      "Structure of Course",
+      "Workload"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nNo feedback of this type.\n\n## Criticisms\nStudents expressed dissatisfaction with the excessive workload, finding assignments, quizzes, and projects to be burdensome and requiring significant time commitments. They suggested reducing the amount of work assigned, making quizzes easier, and avoiding surprise quizzes. The overall course was described as too hectic and demanding, especially for students juggling multiple courses. Many felt overwhelmed by the sheer volume of tasks, which extended their study time and increased their screen time during class periods. Students also noted that the instructor's deadlines seemed unrealistic given the number of other courses they were taking, further contributing to their sense of being overburdened.\n\n## Suggestions\nNone",
+    "type2_positive": null,
+    "type3_negative": "Students reported significant dissatisfaction with the workload, describing it as overly burdensome and time-consuming, encompassing numerous assignments, quizzes, and projects. They advocated for reductions in the quantity of work, easier quiz formats, and avoidance of surprise assessments. The course was perceived as excessively hectic and demanding, particularly for those managing multiple concurrent courses, leading to feelings of overwhelming pressure and increased screen time during class hours. Additionally, the unrealistic instructor-set deadlines exacerbated this stress, making the workload even more challenging to manage.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 12,
+      "suggestion": 0,
+      "total": 12
+    },
+    "children_used": [
+      "Workload but not about Deadlines"
+    ]
+  },
+  "Grading Criteria": {
+    "node_path": [
+      "root",
+      "Evaluation",
+      "Grading Criteria"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciate the progression of quizzes according to the instructor's assessment, indicating a positive trend in the course structure.\n\n## Criticisms\nStudents expressed dissatisfaction with the grading criteria, citing concerns that the passing percentage was intimidating, the grading system was overly strict and binary, and that the evaluation methods were insufficiently nuanced. They also noted that assignments had bonus components that seemed irrelevant, such as penalties for not requesting extensions. Additionally, the binary marking scheme for quizzes and exams was seen as unfair and harsh, leading to a generally negative perception of the course's assessment practices.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "The students appreciate the consistent and effective grading criteria in place, evident through their positive response to the progress of quizzes. This suggests a positive trend in the course structure, where evaluation methods appear to be both fair and beneficial for student progression.",
+    "type3_negative": "Students expressed dissatisfaction with the grading criteria across various assessments, including Midsem, Endsem, and projects, primarily due to the overly strict and binary grading system, which they perceived as intimidating and insufficiently nuanced. They criticized the rigid evaluation methods, including stringent requirements for extensions and bonuses that appeared disconnected from learning outcomes. The binary marking scheme for quizzes and exams was particularly contentious, viewed as unfair and harsh. Furthermore, students felt that the passing percentage was excessively high, and the overall assessment practices lacked flexibility and support, contributing to a generally negative perception of the course's grading criteria.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 1,
+      "negative": 10,
+      "suggestion": 0,
+      "total": 11
+    },
+    "children_used": [
+      "Midsem and Endsem",
+      "Grading Criteria in general not specifically about Midsem, Endsem or Project"
+    ]
+  },
+  "Correctness in Evaluation": {
+    "node_path": [
+      "root",
+      "Evaluation",
+      "Correctness in Evaluation"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nNo feedback of this type.\n\n## Criticisms\nStudents expressed dissatisfaction with the inconsistency in marking across different TAs, noting that some deducted significantly more marks than others for similar work, leading to a perceived unfairness and inconsistency in grading standards. This discrepancy undermined their confidence in the assessment process and the fairness of the course evaluations.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": null,
+    "type3_negative": "Students reported significant dissatisfaction with the inconsistency in marking across different TAs, which led to perceived unfairness and inconsistent grading standards, thereby undermining their confidence in the assessment process and the fairness of the course evaluations.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 1,
+      "suggestion": 0,
+      "total": 1
+    },
+    "children_used": [
+      "Biasness"
+    ]
+  },
+  "Quality of Questions": {
+    "node_path": [
+      "root",
+      "Evaluation",
+      "Quality of Questions"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nNo feedback of this type.\n\n## Criticisms\nStudents expressed dissatisfaction with the difficulty level of questions, describing them as overly challenging and demanding. They also found the relevance of lecture content lacking, with concerns over the mismatch between the material covered in lectures and the provided materials such as the textbook and IP lectures. Furthermore, students criticized the quality of questions on quizzes, noting that they were overly memory-based and rote learning focused, and complained about the short length and excessive content required to memorize.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": null,
+    "type3_negative": "Students expressed significant dissatisfaction with the quality, difficulty, and relevance of questions across various assessments, including quizzes and exams. They found questions overly challenging and demanding, assuming advanced knowledge or extensive preparation, which they perceived as unfair, especially for juniors. The difficulty level was compounded by the lack of clear alignment between lecture content and provided materials, such as the textbook and IP lectures, leading to confusion and frustration. Students also complained about the brevity and excessive content of quizzes, which they felt required rote memorization rather than deeper understanding. Furthermore, the lack of timely availability of lecture slides was highlighted as a contributing factor to the perceived poor quality of questions. Overall, there was a strong call for more straightforward questions, better preparation opportunities, and improved alignment between lecture content and available materials.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 19,
+      "suggestion": 0,
+      "total": 19
+    },
+    "children_used": [
+      "Difficulty of Questions",
+      "Relevance with Lecture",
+      "Quality of Questions nothing specifically about Difficulty or Relevance with Lecture"
+    ]
+  },
+  "Lecture Slides": {
+    "node_path": [
+      "root",
+      "Course Material",
+      "Lecture Slides"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the lecture slides for being well-designed, effectively presenting complex concepts with clear examples, and being clear and thorough. They found the slides to be engaging and helpful in deepening their understanding of the material.\n\n## Criticisms\nThe lecture slides were criticized for being insufficiently detailed, covering too many topics at once, lacking clarity, and being too fast-paced, making it difficult for students to follow along effectively. Additionally, the slides were noted for their lack of mathematical depth and repetition of material from Natural Language Processing, leading to concerns about exam difficulty and the need for better alignment with course content.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the lecture slides for their quality, clarity, and effective presentation of complex concepts with clear examples, engaging them deeply with the material. Additionally, the slides facilitated learning by demonstrating the principles of Natural Language Processing and deep learning, and provided opportunities for interaction through discussions on assignments, enhancing their understanding and allowing them to learn from their peers. These interactive elements were seen as beneficial for improving the overall learning experience.",
+    "type3_negative": "In the critique of lecture slides, students found them of poor quality, characterized by insufficient detail, rapid pacing, and a lack of clarity and relevant examples, thereby hindering their comprehension. Moreover, the slides were criticized for being overly broad in scope, focusing disproportionately on Natural Language Processing at the expense of other subjects, and lacking adequate mathematical depth. Students also expressed frustration with the slides' failure to adequately prepare them for exams, perceiving the material as overly challenging and disconnected from actual exam questions. Beyond these issues, there was a sense that the slides failed to provide substantial value to the learning process, being neither well-organized nor informative enough to aid understanding.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 9,
+      "negative": 8,
+      "suggestion": 0,
+      "total": 17
+    },
+    "children_used": [
+      "Quality of Lecture Slides",
+      "Relevance of Lecture Slides",
+      "Lecture Slides but not specifically about Quality or Relevance"
+    ]
+  },
+  "Labs-Tutorial-Assignment Questions": {
+    "node_path": [
+      "root",
+      "Course Material",
+      "Labs-Tutorial-Assignment Questions"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the relevance of the assignments, finding them useful and pertinent to the course material, and praised the instructor's effectiveness. The quality of assignments was also highly regarded, developing necessary skills and being well-designed. The course content, including well-developed slides, was beneficial, enhancing the quality of labs, tutorials, and assignments.\n\n## Criticisms\nStudents expressed dissatisfaction with the relevance of the material presented in the course, noting it was perceived as irrelevant to their learning experience. There was a significant disconnect between the theoretical content covered in class and the assignments provided, leading to frustration and stress. The complexity of labs and assignments was found to be mismatched with the material covered in lectures, making them overly challenging. Online quizzes and tests were also perceived as overly difficult. Issues with the pacing of lectures, described as too rapid, especially concerning programming concepts, were another source of concern. Additionally, students found the grading standards to be stringent and unfair, leading to dissatisfaction.\n\n## Suggestions\nStudents suggested holding relevant tutorials before assignments to enhance understanding, especially for those new to the field of Machine Learning and Natural Language Processing (NLP). They also recommended making assignments more detailed to reduce ambiguity. To address the challenges with the complexity of labs and assignments, students suggested aligning the difficulty levels more closely with lecture content and providing more support from teaching assistants.",
+    "type2_positive": "Students appreciated the relevance and quality of the Labs-Tutorial-Assignment questions, which helped them develop necessary skills and contributed positively to their learning experience. The assignments were seen as useful and pertinent to the course material, and the instructors' effectiveness in delivering this content was highlighted. Additionally, the course content, including well-designed slides, tutorials, and projects, was considered beneficial. Despite some challenges such as inconsistent lab exercises and difficult assignments, students generally found the course components, particularly the assignments and projects, to be valuable for their learning experience.",
+    "type3_negative": "Students expressed dissatisfaction with the Labs-Tutorial-Assignment questions, citing issues such as uncoordinated labs with class content, lack of concept explanations in practical sessions, inconsistent tutorial exercises, insufficiently prepared assignments, and a perceived lack of practice work. They noted that labs were often too advanced compared to the material covered in class, leading to difficulties in completing assignments. Moreover, there was a significant disconnect between the complexity of these tasks and the material taught in lectures, with assignments being perceived as disproportionately challenging and poorly aligned with learning objectives. Students also highlighted problems with the pacing of lectures, describing them as too rapid, particularly concerning programming concepts. The quality of assignments was criticized for lacking clear criteria and stringent grading standards, which students felt were unfair and overly punitive. Overall, these concerns underscored the need for significant improvements in the coordination of labs and tutorials, the clarity of assignment instructions, and the alignment between assessment tasks and the material covered in lectures to enhance student engagement and satisfaction.",
+    "type4_suggestion": "To improve the educational experience, it is recommended to integrate relevant tutorials before assignments, particularly for students new to Machine Learning and NLP, thereby enhancing their foundational understanding. Additionally, providing more detailed assignments can help mitigate ambiguity and ensure clarity, aiding students in grasping the material effectively.",
+    "tuple_counts": {
+      "positive": 45,
+      "negative": 47,
+      "suggestion": 1,
+      "total": 93
+    },
+    "children_used": [
+      "Relevance of Material",
+      "Quality of Labs-Tutorial-Assignment Questions",
+      "Labs-Tutorial-Assignment Questions in general not specifically about Relevance or Quality"
+    ]
+  },
+  "Extra Material": {
+    "node_path": [
+      "root",
+      "Course Material",
+      "Extra Material"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the course book and research papers as key resources that aided their learning in the course. They found the book particularly helpful for gaining a deep understanding of the subject matter through its well-structured problems and exercises. Additionally, the course text and research papers were highlighted as essential components alongside lectures and assignments, all contributing positively to their educational experience.\n\n## Criticisms\nStudents expressed dissatisfaction with the lack of mathematical depth in the course content, finding much of it repetitive from previous materials. They also noted a significant shortfall in providing exam practice material, which they felt made the exam questions overly challenging and unprepared them for the assessment.\n\n## Suggestions\nThe student suggests that additional resources should be provided for coding exercises, indicating a need for enhanced materials specifically tailored to support these activities. This recommendation aims to improve the quality and relevance of the supplementary material available to learners.",
+    "type2_positive": "Students appreciated the course book and research papers as key resources that aided their learning in the course, finding the book particularly helpful for gaining a deep understanding of the subject matter through its well-structured problems and exercises. These materials, along with lectures and assignments, were highlighted as essential components that collectively contributed positively to their educational experience.",
+    "type3_negative": "Students highlighted issues with the inclusion of extra material that did not align with reference standards, expressing frustration over its lack of mathematical depth and redundancy compared to earlier content. Additionally, there was criticism regarding the insufficient provision of exam practice material, which they perceived as making the exam questions excessively difficult and unhelpful in preparing for the assessments.",
+    "type4_suggestion": "The student recommends providing additional resources for coding exercises, emphasizing the need for more relevant and high-quality supplementary materials to enhance the support offered to learners.",
+    "tuple_counts": {
+      "positive": 6,
+      "negative": 1,
+      "suggestion": 1,
+      "total": 8
+    },
+    "children_used": [
+      "Reference Material",
+      "Extra Material but not Reference Material"
+    ]
+  },
+  "Teaching Assistants (TAs)": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Teaching Assistants (TAs)"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the punctuality and effectiveness of Teaching Assistants (TAs) in conducting sessions, resolving doubts, and distributing quizzes in a timely and efficient manner. They also noted the high praise for the TAs' pedagogical skills, describing them as \"fine\" and \"perfect,\" and highlighting their valuable support. The overall course was deemed well-rounded, with contributions from all components, including TAs, instructors, and assignments. Students appreciated the strong subject knowledge displayed by the TAs, which contributed positively to the learning experience. They also commended the approachability and helpfulness of the TAs, noting their availability to assist with questions and doubts and their prompt resolution of issues. The TAs conducted tutorials effectively, enhancing the learning experience and understanding of course material.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the effectiveness of Teaching Assistants (TAs), perceiving them as largely unhelpful and of little value during tutorials. They reported that TAs were ineffective in providing meaningful guidance or explanations, leading to confusion and frustration regarding course material. Moreover, students observed that TAs frequently engaged in conversations among themselves rather than offering assistance, further diminishing their role in enhancing the learning experience. Overall, the sentiment was that TAs failed to contribute positively to the tutorial sessions, making them feel unnecessary and unproductive. Consequently, students viewed the presence of TAs as a hindrance rather than an asset to their educational progress.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the punctuality and effectiveness of Teaching Assistants (TAs) in conducting sessions, resolving doubts, and distributing quizzes in a timely and efficient manner, which positively influenced their learning experience. The pedagogical skills of the TAs were highly praised, with many describing them as \"fine\" and \"perfect,\" providing valuable support and demonstrating strong subject knowledge. The overall course was considered well-rounded, with contributions from TAs, instructors, and assignments. Moreover, TAs were noted for their approachability and helpfulness, offering prompt assistance with questions and issues. Interactions with TAs and tutorials were particularly beneficial, facilitating a deeper understanding of complex subjects and enhancing academic progress.",
+    "type3_negative": "Feedback across various aspects reveals significant dissatisfaction among students regarding the teaching assistants (TAs). Students reported that TAs were largely ineffective in providing meaningful guidance or explanations during tutorials, leading to confusion and frustration with course material. Additionally, TAs were often seen as unhelpful, engaging in conversations among themselves rather than offering assistance, which further diminished their role in enhancing the learning experience. This perception was so pervasive that students viewed the presence of TAs as a hindrance rather than an asset to their educational progress. Furthermore, the lack of specific comments on punctuality suggests that issues related to timeliness were not highlighted, but the overall negative sentiment towards TAs' contributions to student learning remains consistent.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 21,
+      "negative": 4,
+      "suggestion": 0,
+      "total": 25
+    },
+    "children_used": [
+      "Punctuality of TAs",
+      "Pedagogical Skills of TAs",
+      "Teaching Assistants (TAs) not specifically about Punctuality or Pedagogical Skills"
+    ]
+  },
+  "Professor": {
+    "node_path": [
+      "root",
+      "Lecture Delivery",
+      "Professor"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciate the punctuality and organization of course materials, the good pace of lectures and courses, the foundational approach to teaching, and the effectiveness of the professor's teaching methods.\n\n## Criticisms\nStudents express dissatisfaction with the punctuality and organization of classes, the pace of lectures, the difficulty level of lab exercises, the inconsistency in pacing, and the clarity of the professor's explanations.\n\n## Suggestions\nBased on students' feedback, there is a need to enhance the effectiveness of the professor by addressing the disparity in course performance between online and in-person lectures, ensuring a consistent quality of teaching throughout the course, and improving the clarity and coherence of lectures.",
+    "type2_positive": "Students appreciated the punctuality with which course materials such as lecture notes and readings were delivered, enhancing their preparation for classes and assignments. The consistent pacing of lectures and courses, managed neither too quickly nor too slowly, allowed for a smooth progression through foundational material and more advanced topics, fostering a supportive and well-organized learning environment. The professor’s approach of starting with fundamentals before delving into complexity was highly valued, ensuring thorough coverage of essential concepts. Effective teaching methods, including engaging lectures, interactive sessions, and clear explanations, created a dynamic and enjoyable learning atmosphere. The overall quality of the course, including its consistency and liveliness, was noted positively, contributing to a satisfactory and enriching educational experience.",
+    "type3_negative": "Students expressed dissatisfaction with various aspects of their professor's teaching, including punctuality and organization of classes, the pace at which topics were covered, the relevance and depth of the material, and the effectiveness of the pedagogical skills employed. Concerns centered around the professor's inability to adhere to a timely schedule, leading to confusion and difficulty in preparing for lectures. The pace of the course was criticized as either too fast or too slow, causing students to feel rushed and overwhelmed, particularly regarding the depth of coverage and the integration of theoretical concepts with practical applications. Issues with the professor's clarity and coherence further exacerbated these problems, resulting in a perceived lack of relevance and engagement. Additionally, students noted difficulties in managing the workload, including the timing of assignments and the availability of TAs for support, which contributed to stress and frustration. Finally, suggestions for improvement included greater adaptability and responsiveness from the professor, as well as adjustments to the course structure to better accommodate student needs.",
+    "type4_suggestion": "Based on students' feedback, enhancing the pedagogical skills of the professor is crucial, as evidenced by the disparity in course performance between online and in-person lectures, where initial understanding issues were observed but resolved over time. To address this, adjustments should be made to guarantee a consistent quality of teaching across all formats, emphasizing the significance of effective communication and engagement regardless of the delivery method.",
+    "tuple_counts": {
+      "positive": 145,
+      "negative": 67,
+      "suggestion": 2,
+      "total": 214
+    },
+    "children_used": [
+      "Punctuality of Professor",
+      "Pace",
+      "Topics Covered",
+      "Pedagogical Skills of Professor",
+      "Professor but not specifically about his Punctuality, Pace, Topics Covered, or Pedagogical Skills"
+    ]
+  },
+  "Suggestions": {
+    "node_path": [
+      "root",
+      "General",
+      "Suggestions"
+    ],
+    "node_level": 2,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents generally expressed satisfaction with the course material, suggesting that it be supplemented with more tutorials, assignments, and practical examples. They also appreciated clearer and more detailed examples, fewer surprise quizzes, and easier assignments and quizzes.\n\n## Criticisms\nNo feedback of this type.\n\n## Suggestions\nStudents suggested several improvements to the course structure, including more hands-on training sessions before assignments, more practical sessions and tutorials, and better synchronization between theory classes and practical sessions. They also recommended increasing the emphasis on real-world applications and utilizing data to enhance understanding. Additionally, students proposed incorporating peer learning through sharing best approaches and facilitating post-assignment discussions to improve learning outcomes. For evaluation methods, they suggested delaying the ICE session if IP lectures are skipped, providing more coding questions for practice, better offline evaluation, and extending quiz times due to login issues. They also advocated for more balanced test papers and increasing the weightage of assignments and making them easier to understand through the use of dummy datasets. Lastly, students suggested incorporating peer learning through sharing best approaches and facilitating post-assignment discussions to improve learning outcomes.",
+    "type2_positive": null,
+    "type3_negative": null,
+    "type4_suggestion": "Students have provided a range of suggestions aimed at enhancing various aspects of the course. For course material, they recommended adding more tutorials and assignments, clearer examples, fewer surprise quizzes, and more practical applications. Regarding evaluation, they suggested delaying the ICE session for missed IP lectures, incorporating more coding questions, improving offline assessments, balancing test papers, extending quiz times, offering more time for quizzes, basing quizzes on concepts rather than rote learning, and increasing the weightage of assignments. In lectures, students called for showing dummy data points, explaining concepts with real-life applications, providing faster-paced instruction, uploading slides earlier, slowing down teaching speeds, offering more detailed slides, incorporating examples, and focusing quizzes on concepts rather than rote memorization. For the course structure, they proposed more hands-on training sessions before assignments, more practical sessions and tutorials, providing practice sheets and TA assistance, synchronizing theory and practical sessions, and ensuring fair assessment methods. Additionally, students requested more guidance from TAs and an advanced module, as well as holding relevant tutorials prior to assignment deadlines. They also emphasized the need for more detailed assignments and extended quiz times.",
+    "tuple_counts": {
+      "positive": 0,
+      "negative": 0,
+      "suggestion": 169,
+      "total": 169
+    },
+    "children_used": [
+      "Suggestions on Course Material",
+      "Suggestions on Evaluation",
+      "Suggestions on Lecture",
+      "Suggestions on Course Structure",
+      "Suggestions but not specifically about Course Material, Evaluation, Lecture, or Structure"
+    ]
+  },
+  "Structure of Course": {
+    "node_path": [
+      "root",
+      "Structure of Course"
+    ],
+    "node_level": 1,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the comprehensive and engaging course content, noting that the lectures, discussions, and course material were well-structured and relevant. They highlighted the clarity and interest of the instructors, who made sessions lively and interesting. Specific topics such as Python, data types and conditionals, SQL and relational models, and lab programming were particularly praised. The syllabus was also commended for its effectiveness in preparing students for assignments.\n\n## Criticisms\nStudents expressed dissatisfaction with the course content, finding it outdated and not aligned with current standards. They also noted that the pace was too slow, hindering effective implementation of theoretical concepts. There was criticism regarding the lack of practical sessions and hands-on activities, such as lab work and demonstrations using tools like Python notebooks, which were deemed necessary for better understanding and application of the material.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the structure and organization of the course, noting that it was well-managed and systematically structured, with frequent quizzes and tests helping them learn effectively. The course content was found to be comprehensive and engaging, with clear and lively presentations from instructors. The order of topics was highly regarded for its efficiency and timely delivery, contributing to a positive learning experience. Additionally, the difficulty level of the course was seen as beneficial, fostering a competitive environment that encouraged engagement and mastery. Overall, the course's well-rounded structure, including its clarity, relevance, and effective preparation for assignments, was highlighted as a key strength.",
+    "type3_negative": "Students expressed dissatisfaction with the course content, finding it outdated and not aligned with current standards, while also noting that the pace was too slow, hindering effective implementation of theoretical concepts. Criticisms extended to the organization of the course, highlighting issues with the lack of coherence between lectures and labs, disproportionate challenges in labs compared to lectures, and difficulties in transitioning smoothly between theoretical knowledge and practical application. Concerns about the difficulty level of the course were widespread, with students feeling overwhelmed by its intensity, sudden spike in difficulty, and heavy workload comprising numerous assignments, quizzes, and exams. Additionally, the excessive workload, including unrealistic instructor-set deadlines, led to feelings of overwhelming pressure and increased screen time during class hours. Overall, the course's structure was described as chaotic and poorly managed, contributing to a sense of confusion and frustration among students.",
+    "type4_suggestion": null,
+    "tuple_counts": {
+      "positive": 36,
+      "negative": 43,
+      "suggestion": 0,
+      "total": 79
+    },
+    "children_used": [
+      "Topics",
+      "Organization",
+      "Order of Topics",
+      "Difficulty of Course",
+      "Workload"
+    ]
+  },
+  "Evaluation": {
+    "node_path": [
+      "root",
+      "Evaluation"
+    ],
+    "node_level": 1,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciate the consistent and effective grading criteria in place, evident through their positive response to the progress of quizzes. Additionally, they value how quizzes function as an integral part of their learning process, providing quick revision opportunities that are both helpful and well-implemented.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the evaluation process, primarily regarding the length and timing of quizzes. They felt that quizzes were overly lengthy, containing questions not covered in the textbook or lectures, which they perceived as unfair. Moreover, there was concern about the insufficient time provided for completing quizzes, leading them to request shorter and more predictable assessments. Students also criticized the inconsistency in marking across different TAs, which led to perceived unfairness and inconsistent grading standards.\n\n## Suggestions\nStudents suggest that the evaluation policies should include leniency measures such as the n- or n+ policy for quizzes and assignments, acknowledging the current challenging circumstances due to increased covid cases. They argue that even with thorough preparation, they often receive low marks, indicating a need for more lenient grading criteria to accommodate the stress and workload during the semester. The students emphasize the importance of compensating for missed opportunities by adjusting assignment and project deadlines, suggesting that these changes would alleviate the overall pressure and make the remaining coursework more manageable.",
+    "type2_positive": "Students appreciated how quizzes functioned as an integral part of their learning process, providing quick revision opportunities that were both helpful and well-received. They also noted that quizzes served as a valuable component of the overall evaluation system, which was seen as beneficial for their educational experience. Furthermore, the class quizzes were highlighted as performing well, contributing positively to the comprehensive assessment methods employed in the course. The consistent and effective grading criteria further supported this positive feedback, evident through their positive response to the progress of quizzes.",
+    "type3_negative": "Students expressed dissatisfaction with the evaluation process, particularly regarding the grading criteria, consistency in marking, and the quality of questions across various assessments. They criticized the overly strict and binary grading system, rigid requirements for extensions and bonuses, and a rigid binary marking scheme for quizzes and exams, which they perceived as intimidating and unfair. Concerns were also raised about the inconsistency in marking among different Teaching Assistants (TAs), leading to perceived unfairness and inconsistent grading standards. Moreover, students found the quizzes to be overly challenging and lengthy, containing questions not aligned with the lecture content or textbook, and insufficiently prepared for due to the lack of timely availability of lecture materials. They also requested shorter and more predictable assessments to better align with the learning material and provide clearer expectations. Overall, these issues highlight a need for improvements in the evaluation methods to enhance fairness, clarity, and relevance to the course content.",
+    "type4_suggestion": "Students propose that evaluation policies should incorporate leniency measures like the n- or n+ policies for quizzes and assignments, recognizing the challenges posed by increased covid cases. They argue that even with comprehensive preparation, they frequently score poorly, highlighting a need for more lenient grading criteria to account for the heightened stress and workload during the semester. Additionally, students advocate for adjustments to assignment and project deadlines to compensate for missed opportunities, aiming to reduce overall pressure and make the remaining coursework more feasible.",
+    "tuple_counts": {
+      "positive": 8,
+      "negative": 33,
+      "suggestion": 1,
+      "total": 42
+    },
+    "children_used": [
+      "Grading Criteria",
+      "Correctness in Evaluation",
+      "Quality of Questions",
+      "Evaluation in general not specifically about Grading Criteria, Correctness in Evaluation, or Quality of Questions"
+    ]
+  },
+  "Course Material": {
+    "node_path": [
+      "root",
+      "Course Material"
+    ],
+    "node_level": 1,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the course material for being thorough and structured, which facilitated their understanding of multimodal problems and provided a solid foundation for solving such issues effectively. The quality of the course material was deemed quite good by many reviewers, indicating that it was comprehensive and well-organized, contributing positively to their learning experience. Additionally, the course book and research papers were highly valued for aiding their learning, offering well-structured problems and exercises that deepened their understanding of the subject matter.\n\n## Criticisms\nThere was no feedback of this type.\n\n## Suggestions\nThe student recommends providing additional resources for coding exercises, emphasizing the need for more relevant and high-quality supplementary materials to enhance the support offered to learners.",
+    "type2_positive": "Students appreciated the course material for its thoroughness and structure, which facilitated their understanding of multimodal problems and provided a solid foundation for solving such issues effectively. The course material, including well-presented lecture slides, relevant and high-quality labs, tutorials, and assignments, was deemed quite good by many reviewers. This comprehensive approach, supported by supplementary resources like the course book and research papers, allowed students to engage deeply with the material and interact through discussions and peer learning. Despite some challenges such as inconsistent lab exercises and difficult assignments, the overall quality of the course content, including effective teaching methods and interactive elements, was seen as beneficial for their learning experience.",
+    "type3_negative": "The course material faced several significant challenges, including poorly constructed lecture slides that lacked sufficient detail, clarity, and relevant examples, and were overly broad in scope, failing to adequately cover other subjects or provide necessary mathematical depth. Students also reported difficulties in preparing for exams due to the slides' disconnected nature from actual exam questions. In labs and tutorials, students encountered issues such as uncoordinated sessions with class content, insufficient concept explanations, and inconsistent exercise sets. Assignments were criticized for being overly complex and poorly aligned with the material taught in lectures, leading to confusion and frustration among students. The extra material provided was found to be redundant and lacking in mathematical depth, while exam preparation resources were deemed inadequate, contributing to perceived difficulty in exam preparation. Overall, these critiques indicate a need for substantial improvements in the organization, clarity, and alignment of course materials to better support student learning and engagement.",
+    "type4_suggestion": "To enhance the educational experience, integrating relevant tutorials before assignments could significantly benefit students, especially those new to Machine Learning and Natural Language Processing (NLP), thereby strengthening their foundational knowledge. Furthermore, offering more detailed assignments would help clarify ambiguities and ensure that students have a clear understanding of the material. Additionally, providing supplementary resources for coding exercises is recommended to offer learners more support, ensuring that the extra material is both relevant and of high quality.",
+    "tuple_counts": {
+      "positive": 64,
+      "negative": 56,
+      "suggestion": 2,
+      "total": 122
+    },
+    "children_used": [
+      "Lecture Slides",
+      "Labs-Tutorial-Assignment Questions",
+      "Extra Material",
+      "Course Material in general not specifically about Lecture Slides, Labs-Tutorial-Assignment Questions, or Extra Material"
+    ]
+  },
+  "Lecture Delivery": {
+    "node_path": [
+      "root",
+      "Lecture Delivery"
+    ],
+    "node_level": 1,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the punctuality and effectiveness of Teaching Assistants (TAs) in conducting sessions, resolving doubts, and distributing quizzes in a timely and efficient manner, which positively influenced their learning experience. The pedagogical skills of the TAs were highly praised, with many describing them as \"fine\" and \"perfect,\" providing valuable support and demonstrating strong subject knowledge. The overall course was considered well-rounded, with contributions from TAs, instructors, and assignments. Moreover, TAs were noted for their approachability and helpfulness, offering prompt assistance with questions and issues. Interactions with TAs and tutorials were particularly beneficial, facilitating a deeper understanding of complex subjects and enhancing academic progress.\n\nThe professor's consistent pacing of lectures and courses, managed neither too quickly nor too slowly, allowed for a smooth progression through foundational material and more advanced topics, fostering a supportive and well-organized learning environment. The professor’s approach of starting with fundamentals before delving into complexity was highly valued, ensuring thorough coverage of essential concepts. Effective teaching methods, including engaging lectures, interactive sessions, and clear explanations, created a dynamic and enjoyable learning atmosphere. The overall quality of the course, including its consistency and liveliness, was noted positively, contributing to a satisfactory and enriching educational experience.\n\n## Criticisms\nFeedback across various aspects revealed significant dissatisfaction among students regarding the teaching assistants (TAs). Students reported that TAs were largely ineffective in providing meaningful guidance or explanations during tutorials, leading to confusion and frustration with course material. Additionally, TAs were often seen as unhelpful, engaging in conversations among themselves rather than offering assistance, which further diminished their role in enhancing the learning experience. This perception was so pervasive that students viewed the presence of TAs as a hindrance rather than an asset to their educational progress. Furthermore, the lack of specific comments on punctuality suggests that issues related to timeliness were not highlighted, but the overall negative sentiment towards TAs' contributions to student learning remains consistent.\n\nStudents expressed dissatisfaction with various aspects of their professor's teaching, including punctuality and organization of classes, the pace at which topics were covered, the relevance and depth of the material, and the effectiveness of the pedagogical skills employed. Concerns centered around the professor's inability to adhere to a timely schedule, leading to confusion and difficulty in preparing for lectures. The pace of the course was criticized as either too fast or too slow, causing students to feel rushed and overwhelmed, particularly regarding the depth of coverage and the integration of theoretical concepts with practical applications. Issues with the professor's clarity and coherence further exacerbated these problems, resulting in a perceived lack of relevance and engagement. Additionally, students noted difficulties in managing the workload, including the timing of assignments and the availability of TAs for support, which contributed to stress and frustration.\n\n## Suggestions\nBased on students' feedback, enhancing the pedagogical skills of the professor is crucial, as evidenced by the disparity in course performance between online and in-person lectures, where initial understanding issues were observed but resolved over time. To address this, adjustments should be made to guarantee a consistent quality of teaching across all formats, emphasizing the significance of effective communication and engagement regardless of the delivery method.",
+    "type2_positive": "Students appreciated the pacing of the lectures, which facilitated effective learning by presenting course materials at an appropriate speed for understanding and retention. The consistent and well-paced delivery of lectures, coupled with the timely distribution of course materials such as lecture notes and readings, enhanced students' preparation for classes and assignments. This approach, combined with effective teaching methods including engaging lectures, interactive sessions, and clear explanations, created a dynamic and enjoyable learning atmosphere. Additionally, the professor's approach of starting with fundamentals before delving into complexity was highly valued, ensuring thorough coverage of essential concepts. Overall, the course was well-rounded, with contributions from both the professor and Teaching Assistants, and was characterized by a supportive and well-organized learning environment.",
+    "type3_negative": "Students reported significant dissatisfaction with various aspects of lecture delivery, including the lack of adequate support for practical work and tutorials, insufficient guidance from teaching assistants (TAs), and the brevity and lack of detail in quizzes. They emphasized the need for more detailed examples and longer, more frequent practical sessions, especially for third-year students who found the material challenging. Moreover, the pace and relevance of the course content, along with the clarity and coherence of the professor's explanations, were frequently criticized. Students also highlighted issues with the professor's punctuality and organizational skills, which they believed hindered their ability to prepare effectively for lectures. Overall, the feedback underscored the need for improvements in both the practical support provided by TAs and the overall structure and delivery of the course materials.",
+    "type4_suggestion": "Based on students' feedback, enhancing the pedagogical skills of the professor is crucial, as evidenced by the disparity in course performance between online and in-person lectures, where initial understanding issues were observed but resolved over time. To address this, adjustments should be made to ensure a consistent quality of teaching across all formats, emphasizing the importance of effective communication and engagement regardless of the delivery method.",
+    "tuple_counts": {
+      "positive": 167,
+      "negative": 73,
+      "suggestion": 2,
+      "total": 242
+    },
+    "children_used": [
+      "Teaching Assistants (TAs)",
+      "Professor",
+      "Lecture Delivery but not specifically about Teaching Assistants (TAs) or Professor"
+    ]
+  },
+  "General": {
+    "node_path": [
+      "root",
+      "General"
+    ],
+    "node_level": 1,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the rectification of issues, particularly the alignment between labs and classroom sessions, which improved their understanding and satisfaction. They also highlighted the importance of interactive elements like surprise quizzes and eligibility questions, which aided their learning process. Additionally, positive sentiments were expressed towards the course itself, with many noting its effectiveness and enjoyment. Peer interaction and discussions were deemed crucial for learning, especially in challenging subjects. Overall, students found value in various aspects including course content, instructor support, and opportunities for collaborative learning.\n\n## Criticisms\nStudents expressed significant dissatisfaction with the course, citing issues such as inadequate support for learning, including a lack of effective teaching strategies that could help them understand the material better. They also highlighted problems with the evaluation system, noting that assessments were overly strict and binary, which they felt did not accurately reflect their understanding or progress. Additionally, students complained about insufficient hands-on experience in the subject matter, expecting more opportunities to apply their knowledge practically. Concerns were also raised regarding the availability of computing resources, which they felt hindered their ability to complete projects effectively. Overall, the feedback indicated a perception of an unsatisfactory learning experience, marked by criticism of both instructional methods and logistical support.\n\n## Suggestions\nNo feedback of this type.",
+    "type2_positive": "Students appreciated the course as a whole, praising the instructor's teaching quality and the structured components including lectures, assignments, and support from teaching assistants. While some expressed concerns about workload and difficulty, the majority found the course well-organized and effective in aiding learning. Positive sentiments extended to the instructor's engaging lectures and helpful quizzes, and the course was noted for its alignment with labs and classroom sessions, which enhanced understanding. Interactive elements like surprise quizzes and discussion opportunities were highlighted for their educational value. Students also valued peer interaction and collaborative learning, finding the course enjoyable and beneficial overall.",
+    "type3_negative": "Students expressed significant dissatisfaction with the course, citing issues such as an overly demanding workload, inadequate support for learning, a rigid evaluation system that did not accurately reflect their understanding, insufficient practical application of knowledge, and limited access to computing resources. They felt that the course lacked effective teaching strategies and that the group policies and grading criteria were too stringent, making it challenging to meet all requirements satisfactorily. Despite some appreciation for the instructor and the course, the feedback consistently portrayed a pervasive sense of disappointment and a perceived unsatisfactory learning experience.",
+    "type4_suggestion": "Students have offered a variety of suggestions to improve the course, touching on several key areas. For course material, they recommended adding more tutorials and assignments, clearer examples, fewer surprise quizzes, and more practical applications. In terms of evaluation, they suggested delaying the ICE session for missed IP lectures, incorporating more coding questions, improving offline assessments, balancing test papers, extending quiz times, offering more time for quizzes, basing quizzes on concepts rather than rote learning, and increasing the weightage of assignments. Regarding lectures, students called for showing dummy data points, explaining concepts with real-life applications, providing faster-paced instruction, uploading slides earlier, slowing down teaching speeds, offering more detailed slides, incorporating examples, and focusing quizzes on concepts rather than rote memorization. Suggestions for the course structure included more hands-on training sessions before assignments, more practical sessions and tutorials, providing practice sheets and TA assistance, synchronizing theory and practical sessions, and ensuring fair assessment methods. Students also requested more guidance from TAs and an advanced module, as well as holding relevant tutorials prior to assignment deadlines. They emphasized the need for more detailed assignments and extended quiz times. The feedback also highlighted the need for clearer criteria for evaluation and more detailed comments on how to improve certain aspects of their work, particularly concerning the concept of \"nothing.\"",
+    "tuple_counts": {
+      "positive": 93,
+      "negative": 23,
+      "suggestion": 170,
+      "total": 286
+    },
+    "children_used": [
+      "Suggestions",
+      "Everything",
+      "Nothing",
+      "General not Suggestions, Everything, or Nothing"
+    ]
+  },
+  "root": {
+    "node_path": [
+      "root"
+    ],
+    "node_level": 0,
+    "is_negative_sibling_style": false,
+    "type1_consolidated": "## Appraisals\nStudents appreciated the course for its well-structured components, including lectures, assignments, and support from teaching assistants. They found the instructor’s teaching quality commendable and praised the structured components for aiding learning. Lectures were appreciated for their pacing and clarity, and quizzes were seen as beneficial for revision. The course material was considered comprehensive and engaging, though some felt it was outdated and lacked coherence between lectures and labs. Overall, the course was viewed as effective and enjoyable, with positive sentiments extending to the instructor's engaging lectures and helpful quizzes.\n\n## Criticisms\nThe course faced significant criticism for its outdated content, inconsistent organization, and pace. Students found the workload excessively demanding and the evaluation system rigid and unfair. There were concerns about the lack of practical application, inadequate support, and the difficulty in aligning theoretical knowledge with practical exercises. The grading criteria were criticized for being overly strict and binary, leading to perceived unfairness and inconsistent grading standards. Additionally, the course was perceived as chaotic and poorly managed, contributing to confusion and frustration among students.\n\n## Suggestions\nTo enhance the course, students proposed several improvements. For course material, they suggested adding more tutorials, detailed assignments, and clearer examples. In terms of evaluation, they advocated for leniency measures like n- or n+ policies for quizzes and assignments, adjusting assignment and project deadlines, and offering more detailed comments on how to improve. Regarding lectures, students recommended showing dummy data points, explaining concepts with real-life applications, providing faster-paced instruction, and offering more detailed slides. Suggestions for the course structure included more hands-on training sessions before assignments, more practical sessions and tutorials, and providing practice sheets and TA assistance. Students also called for clearer criteria for evaluation and more detailed comments on how to improve certain aspects of their work.",
+    "type2_positive": "Students appreciated the well-structured and organized course, noting its comprehensive and engaging content, efficient topic sequencing, and effective use of quizzes and tests. The course's clear and lively presentations, along with its well-rounded structure that included clear and relevant teaching methods and interactive elements, fostered a positive learning experience. Despite some challenges such as inconsistent lab exercises and difficult assignments, the overall quality of the course material, including supplementary resources and effective teaching methods, was seen as beneficial. Lectures were praised for their pacing and delivery, which facilitated understanding and retention, while the instructor's teaching quality, coupled with supportive interactions from Teaching Assistants, created a dynamic and enjoyable learning environment. Surprising quizzes and interactive sessions were highlighted for their educational value, and peer interaction and collaborative learning were valued for enhancing understanding and enjoyment. Overall, the course was well-rounded, with strengths in organization, content, and engagement, despite minor areas for improvement.",
+    "type3_negative": "Students expressed significant dissatisfaction with the course, citing issues such as an outdated and poorly aligned content, a slow pace that hindered effective implementation of theoretical concepts, and a chaotic structure that contributed to confusion and frustration. The evaluation process was criticized for an overly strict grading system, inconsistent marking, and a rigid binary marking scheme, leading to perceived unfairness and inconsistencies. Course materials were found to be poorly organized, lacking in detail and clarity, and disconnected from actual exam questions, making exam preparation challenging. Lectures were criticized for brevity, lack of detail, and insufficient practical support, while practical sessions were noted for their uncoordinated nature and inadequate guidance. The workload was described as excessive, with unrealistic instructor-set deadlines and a heavy assignment load, leading to feelings of overwhelming pressure and increased screen time. Overall, the feedback highlighted a need for substantial improvements in course structure, evaluation methods, and course materials to enhance clarity, relevance, and support for student learning.",
+    "type4_suggestion": "Students have proposed various improvements across different aspects of the course to enhance its effectiveness and accessibility. To address the challenges posed by increased covid cases, they advocate for leniency measures in evaluation policies, such as n- or n+ policies for quizzes and assignments, and adjustments to deadlines to alleviate pressure. Regarding course material, students recommend adding more tutorials and detailed assignments to strengthen foundational knowledge and clarify ambiguities. Enhancing lecture delivery is also crucial, with suggestions including more relevant tutorials before assignments, clearer explanations, and practical applications. Students have called for a more consistent quality of teaching across all formats, emphasizing effective communication and engagement. In terms of course structure, they suggest more hands-on training sessions, practical sessions, and tutorials, along with practice sheets and TA assistance. Feedback also highlights the need for clearer evaluation criteria, more detailed comments, and fair assessment methods. Overall, students aim to provide a supportive and engaging learning environment that accommodates diverse learning needs and prepares them effectively for their studies.",
+    "tuple_counts": {
+      "positive": 368,
+      "negative": 228,
+      "suggestion": 175,
+      "total": 771
+    },
+    "children_used": [
+      "Structure of Course",
+      "Evaluation",
+      "Course Material",
+      "Lecture Delivery",
+      "General"
+    ]
+  }
+}

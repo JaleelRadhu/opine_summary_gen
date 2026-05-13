@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Secrets — never commit these
+.streamlit/secrets.toml
+credentials.json
+
+# Local eval results (stored in Google Sheets when deployed)
+eval_results/
+
+# vLLM / model weights
+*.bin
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/

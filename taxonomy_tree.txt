@@ -1,0 +1,82 @@
+root
+├── Structure of Course
+│   ├── Topics
+│   ├── Organization
+│   ├── Order of Topics
+│   ├── Difficulty of Course
+│   ├── Workload
+│   │   ├── Deadlines
+│   │   └── Workload but not about Deadlines
+│   ├── Attendance
+│   └── Structure of Course but not specifically about Topics, Organization, Order of Topics, Difficulty, Workload, or Attendance
+├── Evaluation
+│   ├── Grading Criteria
+│   │   ├── Midsem and Endsem
+│   │   ├── Project
+│   │   └── Grading Criteria in general not specifically about Midsem, Endsem or Project
+│   ├── Correctness in Evaluation
+│   │   ├── Fairness
+│   │   ├── Biasness
+│   │   └── Correctness in Evaluation nothing specifically about Fairness or Biasness
+│   ├── Quality of Questions
+│   │   ├── Difficulty of Questions
+│   │   ├── Relevance with Lecture
+│   │   └── Quality of Questions nothing specifically about Difficulty or Relevance with Lecture
+│   └── Evaluation in general not specifically about Grading Criteria, Correctness in Evaluation, or Quality of Questions
+├── Course Material
+│   ├── Lecture Slides
+│   │   ├── Quality of Lecture Slides
+│   │   ├── Relevance of Lecture Slides
+│   │   │   ├── Coverage of Topics
+│   │   │   └── Relevance of Lecture Slides not specifically about Coverage of Topics
+│   │   └── Lecture Slides but not specifically about Quality or Relevance
+│   ├── Labs-Tutorial-Assignment Questions
+│   │   ├── Relevance of Material
+│   │   ├── Quality of Labs-Tutorial-Assignment Questions
+│   │   │   ├── Difficulty of Labs-Tutorial-Assignment Questions
+│   │   │   └── Quality of Labs-Tutorial-Assignment Questions not Difficulty
+│   │   └── Labs-Tutorial-Assignment Questions in general not specifically about Relevance or Quality
+│   ├── Extra Material
+│   │   ├── Reference Material
+│   │   └── Extra Material but not Reference Material
+│   └── Course Material in general not specifically about Lecture Slides, Labs-Tutorial-Assignment Questions, or Extra Material
+├── Lecture Delivery
+│   ├── Teaching Assistants (TAs)
+│   │   ├── Punctuality of TAs
+│   │   ├── Pedagogical Skills of TAs
+│   │   │   ├── Effectiveness of TAs
+│   │   │   ├── Subject Knowledge of TAs
+│   │   │   ├── Interactiveness of TAs
+│   │   │   │   ├── Approachability of TAs
+│   │   │   │   └── Interactiveness of TAs not specifically Approachability
+│   │   │   └── Pedagogical Skills of TAs but not specifically about Effectiveness, Subject Knowledge, or Interactiveness
+│   │   └── Teaching Assistants (TAs) not specifically about Punctuality or Pedagogical Skills
+│   ├── Professor
+│   │   ├── Punctuality of Professor
+│   │   ├── Pace
+│   │   ├── Topics Covered
+│   │   ├── Pedagogical Skills of Professor
+│   │   │   ├── Effectiveness of Professor
+│   │   │   ├── Granularity of Teaching
+│   │   │   │   ├── Fine Granularity of teaching
+│   │   │   │   └── Granularity of Teaching not Fine
+│   │   │   ├── Subject Knowledge of Professor
+│   │   │   ├── Personal Skills of Professor
+│   │   │   │   ├── Voice
+│   │   │   │   └── Personal Skills of Professor but not about Voice
+│   │   │   ├── Interactiveness of Professor
+│   │   │   │   ├── Approachability of Professor
+│   │   │   │   └── Interactiveness of Professor not specifically Approachability
+│   │   │   └── Pedagogical Skills of Professor but not specifically about Effectiveness, Granularity of Teaching, Subject Knowledge, Personal Skills, or Interactiveness
+│   │   └── Professor but not specifically about his Punctuality, Pace, Topics Covered, or Pedagogical Skills
+│   └── Lecture Delivery but not specifically about Teaching Assistants (TAs) or Professor
+├── General
+│   ├── Suggestions
+│   │   ├── Suggestions on Course Material
+│   │   ├── Suggestions on Evaluation
+│   │   ├── Suggestions on Lecture
+│   │   ├── Suggestions on Course Structure
+│   │   └── Suggestions but not specifically about Course Material, Evaluation, Lecture, or Structure
+│   ├── Everything
+│   ├── Nothing
+│   └── General not Suggestions, Everything, or Nothing
