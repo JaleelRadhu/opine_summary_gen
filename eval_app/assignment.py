@@ -49,14 +49,28 @@ def _compute_assignment(
 def _read_registry_sheets() -> Dict[str, List[str]]:
     from .sheets_client import get_worksheet
     ws = get_worksheet("registry")
-    records = ws.get_all_records()
-    return {row["evaluator_id"]: json.loads(row["assigned_ids"]) for row in records}
+    rows = ws.get_all_values()  # list of lists; no header assumption
+    if len(rows) < 2:
+        return {}
+    header = rows[0]
+    if "evaluator_id" not in header or "assigned_ids" not in header:
+        return {}
+    id_col  = header.index("evaluator_id")
+    ids_col = header.index("assigned_ids")
+    result = {}
+    for row in rows[1:]:
+        if len(row) > max(id_col, ids_col) and row[id_col]:
+            try:
+                result[row[id_col]] = json.loads(row[ids_col])
+            except (json.JSONDecodeError, IndexError):
+                pass
+    return result
 
 
 def _write_registry_sheets(evaluator_id: str, assigned_ids: List[str]) -> None:
     from .sheets_client import get_worksheet
     ws = get_worksheet("registry")
-    if ws.row_count == 0 or not ws.get("A1"):
+    if not ws.get_all_values():  # empty sheet — write header first
         ws.append_row(["evaluator_id", "assigned_ids"])
     ws.append_row([evaluator_id, json.dumps(assigned_ids)])
 

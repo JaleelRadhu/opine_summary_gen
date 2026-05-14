@@ -36,8 +36,7 @@ def _use_sheets() -> bool:
 def _save_response_sheets(response: dict) -> None:
     from .sheets_client import get_worksheet
     ws = get_worksheet("responses")
-    # Write header row if sheet is empty
-    if ws.row_count == 0 or not ws.get("A1"):
+    if not ws.get_all_values():  # empty sheet — write header first
         ws.append_row(COLUMNS)
     row = [str(response.get(col, "")) for col in COLUMNS]
     ws.append_row(row)
