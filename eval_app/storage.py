@@ -37,9 +37,9 @@ def _save_response_sheets(response: dict) -> None:
     from .sheets_client import get_worksheet
     ws = get_worksheet("responses")
     if not ws.get_all_values():  # empty sheet — write header first
-        ws.append_row(COLUMNS)
+        ws.append_rows([COLUMNS], value_input_option="RAW", table_range="A1")
     row = [str(response.get(col, "")) for col in COLUMNS]
-    ws.append_row(row)
+    ws.append_rows([row], value_input_option="RAW", table_range="A1")
 
 
 def _load_responses_sheets() -> pd.DataFrame:

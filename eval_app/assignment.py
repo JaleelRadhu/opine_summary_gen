@@ -71,8 +71,8 @@ def _write_registry_sheets(evaluator_id: str, assigned_ids: List[str]) -> None:
     from .sheets_client import get_worksheet
     ws = get_worksheet("registry")
     if not ws.get_all_values():  # empty sheet — write header first
-        ws.append_row(["evaluator_id", "assigned_ids"])
-    ws.append_row([evaluator_id, json.dumps(assigned_ids)])
+        ws.append_rows([["evaluator_id", "assigned_ids"]], value_input_option="RAW", table_range="A1")
+    ws.append_rows([[evaluator_id, json.dumps(assigned_ids)]], value_input_option="RAW", table_range="A1")
 
 
 # ── Local JSON backend ─────────────────────────────────────────────────────
