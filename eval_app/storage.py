@@ -45,10 +45,15 @@ def _save_response_sheets(response: dict) -> None:
 def _load_responses_sheets() -> pd.DataFrame:
     from .sheets_client import get_worksheet
     ws = get_worksheet("responses")
-    records = ws.get_all_records()
-    if not records:
+    rows = ws.get_all_values()
+    if len(rows) < 2:
         return pd.DataFrame(columns=COLUMNS)
-    return pd.DataFrame(records)
+    header, data = rows[0], rows[1:]
+    df = pd.DataFrame(data, columns=header)
+    for col in COLUMNS:
+        if col not in df.columns:
+            df[col] = ""
+    return df[COLUMNS]
 
 
 # ── Local CSV backend ──────────────────────────────────────────────────────
