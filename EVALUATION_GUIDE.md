@@ -59,7 +59,7 @@ With 3 course partitions, this yields approximately **21 records** total across 
 - Each evaluator is assigned **7 records** (`N_RECORDS_PER_EVALUATOR` in `eval_app/config.py`).
 - **3 of those 7 are "core" records** (`N_CORE_RECORDS`) assigned identically to every evaluator — these are used to compute inter-annotator agreement (IAA).
 - Assignment is **deterministic**: the same evaluator name always produces the same assignment, so evaluators can log out and resume across multiple sittings.
-- Assignments are persisted in `eval_results/registry_<dataset>_<model>.json`.
+- Assignments are persisted in Google Sheets (`registry` sheet) when deployed, or in `eval_results/registry_<dataset>_<model>.json` when running locally.
 
 ### How is the evaluation presented?
 
@@ -132,9 +132,13 @@ conda run -n jaleel_btp python regenerate_eval.py \
 
 This rebuilds `all_eval.json` from the already-saved summaries without re-calling the LLM.
 
-### Step 5 — Start the evaluation app
+### Step 5 — Deploy the evaluation app
 
-From the project root, in a tmux session (so it keeps running after you disconnect):
+The app is deployed on **Streamlit Community Cloud** at a permanent public URL (e.g. `https://yourname-opine-eval.streamlit.app`). Evaluators open that URL from any device — no tunneling or local server needed.
+
+Responses are stored in the **Google Spreadsheet** configured in `secrets.toml` (two sheets: `responses` and `registry`). They persist there regardless of whether anyone is logged into the server.
+
+If you need to run the app locally instead (e.g. for testing):
 
 ```bash
 tmux new -s eval_app
@@ -142,16 +146,33 @@ conda run -n jaleel_btp streamlit run eval_app/app.py
 # Ctrl+B then D to detach
 ```
 
-Responses are saved to `eval_results/responses_<dataset>_<model>.csv` and `eval_results/registry_<dataset>_<model>.json`.
+In local mode the app falls back to saving responses as files:
+- `eval_results/responses_<dataset>_<model>.csv`
+- `eval_results/registry_<dataset>_<model>.json`
 
 ### Step 6 — Generate the report
 
-Once evaluators have submitted responses:
+Once evaluators have submitted responses, download the data from Google Sheets and run the report locally:
+
+**Option A — Export from Google Sheets (simplest)**
+
+1. Open your Google Spreadsheet → go to the `responses` sheet
+2. File → Download → Comma Separated Values (.csv)
+3. Save it as `eval_results/responses_<dataset>_<model>.csv` (matching the path in `eval_app/config.py`)
+4. Run the report:
 
 ```bash
 conda run -n jaleel_btp python eval_app/compute_report.py
 # or for a specific model:
 conda run -n jaleel_btp python eval_app/compute_report.py --model Qwen2-5-3B-Instruct
+```
+
+**Option B — Read directly from Sheets**
+
+If your local `.streamlit/secrets.toml` is configured with the Google credentials, `compute_report.py` will read responses directly from Sheets without any manual export:
+
+```bash
+conda run -n jaleel_btp python eval_app/compute_report.py
 ```
 
 Outputs are written to `eval_results/report/`.
@@ -236,31 +257,26 @@ Results are broken down by **source node level**. Propagation loss at lower leve
 
 ## 4. Sharing the App with External Evaluators
 
-The Streamlit app binds to three addresses when it starts:
+The app is deployed on **Streamlit Community Cloud** and has a permanent public URL — just share that link with evaluators. It works from any device, anywhere, with no tunneling or server management.
 
 ```
-Local URL:    http://localhost:8501       ← only accessible on the server itself
-Network URL:  http://192.168.x.x:8501    ← accessible on the same Wi-Fi / LAN
-External URL: http://<public-ip>:8501    ← accessible from anywhere on the internet
+https://yourname-opine-eval.streamlit.app
 ```
 
-### For evaluators on the same network (LAN/Wi-Fi)
-Share the **Network URL** (`192.168.x.x:8501`). No extra setup needed.
+Responses go directly to Google Sheets in real time. Even if evaluators pause and return later, their progress is saved — they re-enter the same name and pick up where they left off.
 
-### For evaluators outside your network (recommended: ngrok)
+### If you need a temporary public URL instead (local server fallback)
 
-The External IP listed by Streamlit **may not work** unless port 8501 is explicitly opened in the server's firewall and your router's port-forwarding rules — which typically requires admin access.
-
-The reliable alternative is **ngrok**, which creates a secure public tunnel without needing any firewall changes:
+If for some reason you need to run locally and expose it externally, use Pinggy (no installation, no admin needed — just SSH):
 
 ```bash
-# Install once
-pip install pyngrok   # or download from ngrok.com
+# In one tmux pane: run the app
+conda run -n jaleel_btp streamlit run eval_app/app.py
 
-# In a separate tmux pane, while Streamlit is running:
-ngrok http 8501
+# In another tmux pane: open the tunnel
+ssh -p 443 -R0:localhost:8501 a.pinggy.io
 ```
 
-ngrok prints a public URL like `https://abc123.ngrok.io`. Share that URL with all evaluators — it works from any device, anywhere. The free tier supports the load of a small evaluation study (8–10 evaluators).
+Pinggy prints a URL like `https://xxxx.a.pinggy.io`. Share that with evaluators. Note the free tier expires after 60 minutes — restart the ssh command to get a new URL.
 
-> **Note:** Keep the tmux session with Streamlit running and the tmux session with ngrok running at all times. If either is killed, the URL stops working. Responses already submitted are saved to disk and are not lost.
+> **Note:** With the Streamlit Community Cloud deployment, none of this is needed. The cloud URL is permanent and always available.

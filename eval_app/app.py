@@ -113,7 +113,7 @@ def show_login() -> None:
 
 You will evaluate AI-generated summaries of student course feedback.
 
-**What you'll do per topic (~2–3 min each):**
+**What you'll do per topic (~5-10 min each):**
 1. **Read** the consolidated summary
 2. **Guess** the sentiment balance of the underlying feedback
 3. **See** the actual source material (the input to the AI) and compare
@@ -121,7 +121,7 @@ You will evaluate AI-generated summaries of student course feedback.
 5. **Compare** how well the consolidated and standalone summaries align
 6. **Check** how well a broader topic's summary preserves this topic's content
 
-**Total time: approximately 20 minutes** for ~7 topics.
+**Total time: approximately 30 - 50 minutes** for ~7 topics.
 
 ---
 💡 **You can complete this in multiple sittings.**
